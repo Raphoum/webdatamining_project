@@ -1,0 +1,22 @@
+@prefix ns1: <http://sw.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Chewbacca a ns1:Wookie ;
+    ns1:is_co_pilot_of ns1:Millennium_Falcon .
+
+ns1:Luke a ns1:Human,
+        ns1:Jedi .
+
+ns1:Master_Yoda a ns1:Jedi,
+        ns1:Unknown_Species .
+
+ns1:Star_Wars_IV a ns1:Movie .
+
+ns1:humans a ns1:Species .
+
+ns1:wookies a ns1:Species .
+
+ns1:Millennium_Falcon a ns1:Starship ;
+    ns1:has_speed 1.5e+00 ;
+    ns1:speed_unit "above the speed of light" .
+
