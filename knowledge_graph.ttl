@@ -1,3808 +1,1050 @@
 @prefix ns1: <http://example.org/> .
 
-<http://example.org/%2A1995_totals> a ns1:PER .
+ns1:45 ns1:finish ns1:mood .
 
-<http://example.org/%2B392_66129502> a ns1:PER .
+ns1:ATP a ns1:ORG .
 
-<http://example.org/%2B56-2-699-5595_x211> a ns1:PER .
+ns1:ATP_Tour a ns1:MISC .
 
-ns1:1%2C305%2C000_88%2C800%2C000 a ns1:PER .
+ns1:Alcaraz a ns1:ORG,
+        ns1:PER .
 
-ns1:1%2C589%2C000_84%2C894%2C000 a ns1:PER .
+ns1:Alcaraz%27s a ns1:ORG .
 
-ns1:1-11_2-38_3-64_4-73_5-81_6-120_7-135_8-150 a ns1:ORG .
+ns1:Alejandro_Tabilo a ns1:PER .
 
-ns1:10%2C719 a ns1:ORG .
+ns1:Alex_Ovechkin a ns1:PER .
 
-ns1:10%3D_Florence a ns1:PER .
+ns1:Alexander_Zverev a ns1:PER .
 
-ns1:10%3D_Megan a ns1:PER .
+ns1:Alonso a ns1:PER .
 
-ns1:10%3D_Stefanie a ns1:PER .
+ns1:An a ns1:PER .
 
-ns1:10%3D_Warwara a ns1:PER .
+ns1:Andrea_Stella a ns1:PER .
 
-ns1:11%2C589 a ns1:ORG .
+ns1:Andy a ns1:PER .
 
-ns1:11-0_12-10 a ns1:PER .
+ns1:Andy_Murray a ns1:PER .
 
-ns1:12%3D_Katharina a ns1:PER .
+ns1:Arne_Slot a ns1:PER .
 
-ns1:12%3D_Madlen a ns1:PER .
-
-ns1:12.00_9.94 a ns1:PER .
-
-<http://example.org/12/15/2000_1%2C250M_6.25_4.10> a ns1:ORG .
-
-<http://example.org/12/15/2001_575M_4.60_4.20> a ns1:ORG .
-
-<http://example.org/12/15/2003_265M_4.40_4.40> a ns1:ORG .
-
-<http://example.org/12/15/2004_625M> a ns1:PER .
-
-<http://example.org/12/15/2005_55M_4.60_4.60> a ns1:ORG .
-
-<http://example.org/12/15/2006_145M> a ns1:PER .
-
-<http://example.org/12/15/2007_850M_4.85_4.85> a ns1:ORG .
-
-<http://example.org/12/15/2008_1%2C200M_4.95_4.95> a ns1:ORG .
-
-<http://example.org/12/15/2009_1%2C240M_5.05_5.05> a ns1:ORG .
-
-<http://example.org/12/15/2010_1%2C250M_5.15_5.15> a ns1:ORG .
-
-<http://example.org/12/15/2011_1%2C240M_5.25_5.25> a ns1:ORG .
-
-<http://example.org/12/15/2012_1%2C200M_5.25_5.30> a ns1:ORG .
-
-<http://example.org/12/15/2013_1%2C135M_5.30_5.35> a ns1:ORG .
-
-<http://example.org/12/15/2014_850M_5.30_5.35> a ns1:ORG .
-
-ns1:1230_CST a ns1:PER .
-
-ns1:128.00_117.56 a ns1:PER .
-
-ns1:13%3D_Picabo_Street a ns1:ORG .
-
-ns1:13%3D_Stefanie a ns1:PER .
-
-ns1:13050.2_11979.6 a ns1:PER .
-
-ns1:14-1_Real_Madrid_Draw a ns1:ORG .
-
-ns1:14-1_Victor_Sanchez_12-1_Guillermo a ns1:PER .
-
-ns1:15%2C232 a ns1:ORG .
-
-ns1:153_243 a ns1:PER .
-
-ns1:16%3D_Claudia a ns1:PER .
-
-ns1:16%3D_Sabina a ns1:PER .
-
-ns1:16-1_Manolo_Sanchis_14-1_Gheorghe a ns1:ORG .
-
-ns1:18%3D_Marianne a ns1:PER .
-
-ns1:18%3D_Miriam a ns1:PER .
-
-ns1:184_291 a ns1:PER .
-
-ns1:185-members_General_Assembly a ns1:ORG .
-
-ns1:1860_Munich a ns1:ORG .
-
-ns1:19 ns1:kill ns1:group .
-
-ns1:19%2C306 a ns1:ORG .
-
-ns1:19%2C675 a ns1:ORG .
-
-ns1:19%3D_Kate a ns1:PER .
-
-ns1:19%3D_Regine a ns1:PER .
-
-ns1:1996-12-06 a ns1:ORG .
-
-ns1:2-225_3-240_4-247_5-252_6-260_7-261_8-269_9-276 a ns1:ORG .
-
-ns1:2-2_14-1 a ns1:PER .
-
-ns1:2-7_3-125_4-146_5-170_6-190_7-195 a ns1:ORG .
-
-ns1:2016_5.35 a ns1:PER .
-
-ns1:22%3D_Anita a ns1:PER .
-
-ns1:22%3D_Regine a ns1:PER .
-
-ns1:22._Bibiana a ns1:PER .
-
-ns1:221_368 a ns1:PER .
-
-ns1:234_393 a ns1:PER .
-
-ns1:24._Catherine a ns1:PER .
-
-ns1:24._Megan a ns1:PER .
-
-ns1:246_334 a ns1:PER .
-
-ns1:26%2C000_1%2C547%2C000 a ns1:PER .
-
-ns1:26%3D_Catherine a ns1:PER .
-
-ns1:26%3D_Michaela a ns1:PER .
-
-ns1:267_215 a ns1:MISC .
-
-ns1:27._Sybille a ns1:PER .
-
-ns1:28%2C418 a ns1:ORG .
-
-ns1:28-1_Real_Madrid_Barcelona a ns1:ORG .
-
-ns1:28._Alexandra a ns1:PER .
-
-ns1:28._Grete a ns1:PER .
-
-ns1:299_318 a ns1:PER .
-
-ns1:3-3_50-1 a ns1:PER .
-
-ns1:30%2C018 a ns1:ORG .
-
-ns1:31%2C000_1%2C810%2C000 a ns1:PER .
-
-ns1:31%2C000_1%2C914%2C000 a ns1:PER .
-
-ns1:312-408_8720 a ns1:PER .
-
-ns1:313_302 a ns1:PER .
-
-ns1:320_369 a ns1:PER .
-
-ns1:327_4040 a ns1:PER .
-
-ns1:33-1_Fernando_Sanz_25-1 a ns1:ORG .
-
-ns1:346_191 a ns1:PER .
-
-ns1:380_2014 a ns1:PER .
-
-ns1:39%2C507 a ns1:ORG .
-
-ns1:4.30_4.35 a ns1:PER .
-
-ns1:40-1_Chendo_Porlan_33-1_Miguel_Nadal a ns1:ORG .
-
-ns1:5%2C812 a ns1:ORG .
-
-ns1:5.00_5.00 a ns1:PER .
-
-ns1:5.90_5.90 a ns1:PER .
-
-<http://example.org/53.04%29.> a ns1:ORG .
-
-ns1:6.20_5.36 a ns1:PER .
-
-ns1:6.20_6.15 a ns1:PER .
-
-ns1:6.25_6.20 a ns1:PER .
-
-ns1:651-seat_House a ns1:LOC .
-
-ns1:68.01_69.45-74.18 a ns1:PER .
-
-ns1:69.95_71.39-76.12 a ns1:PER .
-
-ns1:72.97_74.42-79.19 a ns1:PER .
-
-ns1:721_5240 a ns1:PER .
-
-ns1:730.0_9176.1_8188.2_164.2_3156.0_2686.7 a ns1:ORG .
-
-ns1:8%3D_Carole a ns1:PER .
-
-ns1:8%3D_Renate a ns1:PER .
-
-ns1:8-213_9-216 a ns1:PER .
-
-ns1:9-2_Davor_Suker_9-2_Ronaldo a ns1:ORG .
-
-ns1:A._Curts a ns1:PER .
-
-ns1:A._Parore a ns1:PER .
-
-ns1:ABIDJAN_1996-12-06 a ns1:LOC .
-
-ns1:ABU_DHABI_1996-12-07 a ns1:ORG .
-
-ns1:AC_Milan a ns1:ORG .
-
-ns1:AC_Milan_George_Weah a ns1:ORG .
-
-ns1:ADRs a ns1:MISC .
-
-ns1:AFRICAN_CUP_WINNERS_%27_CUP a ns1:MISC .
-
-ns1:ALPINE_SKIING-GLADISHIVA a ns1:PER .
-
-ns1:ALPINE_SKIING-GOETCHL a ns1:PER .
-
-ns1:ALPINE_SKIING-OFFICIALS a ns1:PER .
-
-ns1:ALPINE_SKIING-WOMEN a ns1:PER .
-
-ns1:ALPINE_SKIING-WOMEN_%27S_DOWNHILL_WINNER_PROFILE a ns1:ORG .
-
-ns1:AMARILLO_1996-12-06 a ns1:PER .
-
-ns1:AMERICAN_FOOTBALL_CONFERENCE a ns1:MISC .
-
-<http://example.org/AMR_Corp.> a ns1:ORG .
-
-ns1:AMSTERDAM_1996-12-06 a ns1:LOC .
-
-ns1:AMSTERDAM_1996-12-07 a ns1:LOC .
-
-ns1:ANKARA_1996-12-06 a ns1:LOC .
-
-ns1:ASIAN_CUP a ns1:MISC .
-
-ns1:ATLANTA a ns1:LOC,
-        ns1:ORG .
-
-ns1:ATLANTIC_DIVISION a ns1:MISC .
-
-ns1:AUSTRALIA a ns1:LOC .
-
-ns1:AUSTRALIAN_TOUR a ns1:MISC .
-
-ns1:AUSTRALIA_V_WEST a ns1:LOC .
-
-ns1:AUSTRIA a ns1:LOC .
-
-ns1:AZ_Alkmaar a ns1:ORG .
-
-ns1:Aaa_Aa a ns1:PER .
-
-ns1:Abdul_Latif a ns1:PER .
-
-ns1:AbelardoFernandez a ns1:ORG .
-
-ns1:Aberdeen a ns1:ORG .
-
-ns1:Abidjan a ns1:LOC .
-
-ns1:Abu_Ibrahim a ns1:PER .
-
-ns1:Action_Performance a ns1:ORG .
-
-ns1:Action_Performance_Cos_Inc a ns1:ORG .
-
-ns1:Adrian_Ilie a ns1:PER .
-
-ns1:Africa a ns1:LOC .
-
-ns1:African a ns1:MISC .
-
-ns1:African_Cup_Winners_%27_Cup a ns1:MISC .
-
-ns1:African_National_Congress a ns1:ORG .
-
-ns1:Africans a ns1:MISC .
-
-ns1:Ago_10%2C900 a ns1:PER .
-
-ns1:Ago_30%2C800 a ns1:PER .
-
-ns1:Ahmed_Abdel-Rahman a ns1:PER .
-
-ns1:Airdrieonians a ns1:ORG .
-
-ns1:Ajax a ns1:ORG .
-
-ns1:Ajax_Amsterdam a ns1:ORG .
-
-ns1:Al_Talyani a ns1:PER .
-
-ns1:Alan_Bateman a ns1:PER .
-
-ns1:Alan_Greenspan a ns1:PER .
-
-ns1:Alan_Shearer a ns1:PER .
-
-ns1:Alba_Berlin a ns1:ORG .
-
-ns1:Albania a ns1:LOC .
-
-ns1:Albanian a ns1:MISC .
-
-ns1:Albanian_Football_Association a ns1:ORG .
-
-ns1:Albert a ns1:PER .
-
-ns1:Alberta a ns1:LOC .
-
-ns1:Albion a ns1:ORG .
-
-ns1:Aleksander_Kwasniewski a ns1:PER .
-
-ns1:Alena_Koroleva a ns1:PER .
-
-ns1:Alessandra_Mussolini a ns1:PER .
-
-ns1:Alessandro_Del a ns1:PER .
-
-ns1:Alessandro_Moscardi a ns1:PER .
-
-ns1:Alessandro_Troncon a ns1:PER .
-
-ns1:Alexander_Bavykin a ns1:PER .
-
-ns1:Alexander_Downer a ns1:PER .
-
-ns1:Alexander_Livshits a ns1:PER .
-
-ns1:Alexandre_Mikhailov a ns1:PER .
-
-ns1:Alexis_Blanc a ns1:PER .
-
-ns1:Algeria a ns1:LOC .
-
-ns1:Algerian a ns1:MISC .
-
-ns1:Algerians a ns1:MISC .
-
-ns1:Algiers a ns1:LOC .
-
-<http://example.org/Algoa_Day_21/11/96_6%2C000_Africa> a ns1:MISC .
-
-ns1:Ali_Alatas a ns1:PER .
-
-ns1:Ali_Dib a ns1:PER .
-
-ns1:Allan_Bateman a ns1:PER .
-
-ns1:Allan_Budi a ns1:PER .
-
-ns1:Allan_Budi_Kusuma a ns1:PER .
-
-ns1:Alloa a ns1:ORG .
-
-ns1:Ally_McCoist a ns1:PER .
-
-ns1:Aly_Ashour a ns1:PER .
-
-ns1:America a ns1:LOC .
-
-ns1:American a ns1:MISC .
-
-ns1:American_Airlines a ns1:ORG .
-
-ns1:American_Veterinary_Medical_Association a ns1:ORG .
-
-ns1:Americans a ns1:MISC .
-
-ns1:Amor a ns1:ORG .
-
-ns1:Amsterdam a ns1:LOC .
-
-ns1:Andersson a ns1:PER .
-
-ns1:Andrea_Castellani a ns1:PER .
-
-ns1:Andrea_Sgorlon a ns1:PER .
-
-ns1:Andreas_Goldberger a ns1:PER .
-
-ns1:Andreas_Thom a ns1:PER .
-
-ns1:Andrei_Ivanov a ns1:PER .
-
-ns1:Andrew a ns1:PER .
-
-ns1:Andrew_Blades a ns1:PER .
-
-ns1:Andrew_Park a ns1:PER .
-
-ns1:Andrew_Pitts a ns1:PER .
-
-ns1:Andrews a ns1:PER .
-
-ns1:Andy_Capicik a ns1:PER .
-
-ns1:Animal_Hospital a ns1:LOC .
-
-ns1:Anke_Baler a ns1:PER .
-
-ns1:Ann_Battellle a ns1:PER .
-
-ns1:Antoine_Lahd a ns1:PER .
-
-ns1:Anton_Dobos a ns1:PER .
-
-ns1:Antonio_Folha a ns1:PER .
-
-ns1:Antonio_Tartaglia a ns1:PER .
-
-ns1:Apr-Sept_Apr-Sept a ns1:PER .
-
-ns1:Apr_97_74.13_74.69_70.59_72.04-76.81 a ns1:ORG .
-
-ns1:Arab a ns1:MISC .
-
-ns1:Arabic a ns1:MISC .
-
-ns1:Arafat a ns1:PER .
-
-ns1:Arbroath a ns1:ORG .
-
-ns1:Argentine a ns1:MISC .
-
-ns1:Arjan_Bellai a ns1:PER .
-
-ns1:Arminia_Bielefeld a ns1:ORG .
-
-ns1:Armir_Grima a ns1:PER .
-
-ns1:Arnold a ns1:PER .
+ns1:Arne_Slot_Liverpool a ns1:LOC .
 
 ns1:Arsenal a ns1:ORG .
 
-ns1:Artur_Lekbello a ns1:PER .
-
-ns1:Ashford_Town a ns1:LOC .
-
-ns1:Asian a ns1:MISC .
-
-ns1:Asian_Cup a ns1:MISC .
-
-ns1:Asian_Games a ns1:MISC .
-
-ns1:Asian_Nations a ns1:MISC .
-
-ns1:Astle_9-0-53-1 a ns1:PER .
+ns1:Aston_Martin a ns1:PER .
 
 ns1:Aston_Villa a ns1:ORG .
 
-ns1:Atalanta a ns1:ORG .
+ns1:AudioMuller_%26_De_Bruyne a ns1:ORG .
 
-ns1:Athens a ns1:LOC .
+ns1:Augusta a ns1:LOC,
+        ns1:MISC .
 
-ns1:Athletic_Bilbao a ns1:PER .
-
-ns1:Atlanta a ns1:LOC .
-
-ns1:Atletico_Madrid a ns1:ORG .
-
-ns1:Atletico_Mineiro a ns1:ORG .
-
-ns1:Australia a ns1:LOC .
-
-ns1:Australia_1996-12-06 a ns1:LOC .
-
-ns1:Australia_1996-12-07 a ns1:LOC .
+ns1:Aus%29%3B-5C_Schwartzel a ns1:PER .
 
 ns1:Australian a ns1:MISC .
 
-ns1:Austria a ns1:LOC .
+ns1:BBC_Commonwealth_Games a ns1:ORG .
 
-ns1:Austria_1996-12-07 a ns1:LOC .
+ns1:BBC_Harman a ns1:ORG .
 
-ns1:Austria_III a ns1:LOC .
+ns1:BBC_Match_of_the_Day a ns1:ORG .
 
-ns1:Austrian a ns1:MISC .
+ns1:BBC_Sport a ns1:ORG .
 
-ns1:Auxerre a ns1:ORG .
+ns1:BBC_The a ns1:ORG .
 
-ns1:Ayr a ns1:ORG .
+ns1:BBC_Verstappen a ns1:ORG .
 
-ns1:B._Lara a ns1:PER .
+ns1:Bahrain_Grand_Prix a ns1:MISC .
 
-ns1:B._Nielsen a ns1:PER .
+ns1:Bastogne a ns1:LOC .
 
-ns1:B._Young a ns1:PER .
-
-ns1:BALI_1996-12-06 a ns1:PER .
-
-ns1:BALTIMORE a ns1:ORG .
-
-ns1:BANGKOK_1996-11-29 a ns1:LOC .
-
-ns1:BANGUI_1996-12-06 a ns1:PER .
-
-ns1:BAN_LIFTED a ns1:PER .
-
-ns1:BARCELONA a ns1:ORG .
-
-ns1:BEIJING_1996-12-06 a ns1:LOC .
-
-ns1:BEIRUT_1996-12-06 a ns1:LOC .
-
-ns1:BELFAST_1996-12-06 a ns1:PER .
-
-ns1:BOBSLEIGH-WORLD_CUP a ns1:MISC .
-
-ns1:BOJ a ns1:ORG .
-
-ns1:BOMBAY a ns1:LOC .
-
-ns1:BONN_1996-12-06 a ns1:LOC .
-
-ns1:BOSTON a ns1:LOC,
-        ns1:ORG .
-
-ns1:BRATISLAVA_1996-12-06 a ns1:LOC .
-
-ns1:BRAZILIAN_CHAMPIONSHIP a ns1:MISC .
-
-ns1:BRUSSELS_1996-12-06 a ns1:LOC .
-
-ns1:BUCHAREST_1996-12-06 a ns1:LOC .
-
-ns1:BUDAPEST_1996-12-06 a ns1:LOC .
-
-ns1:BUENOS_AIRES_1996-12-06 a ns1:LOC .
-
-ns1:Bahia_Blanca a ns1:ORG .
-
-ns1:Bali_1996-12-07 a ns1:PER .
-
-ns1:Balkan a ns1:LOC .
-
-ns1:Bangkok a ns1:LOC .
-
-ns1:Bank_of_Japan a ns1:ORG .
-
-ns1:Barbara_Merlin a ns1:PER .
-
-ns1:Barcelona a ns1:ORG .
-
-ns1:Barcelona_Barcelona a ns1:ORG .
-
-ns1:Barcelona_Draw a ns1:ORG .
-
-ns1:Barcelona_Real_Madrid a ns1:ORG .
-
-ns1:Barley_1074.0_1104.8_178.0_2531.4_1897.1 a ns1:ORG .
-
-ns1:Barley_110.8_1203.4_506.0_48.2_941.0_786.6 a ns1:ORG .
-
-ns1:Barnet a ns1:ORG .
-
-ns1:Barnsley a ns1:ORG .
-
-ns1:Barrick a ns1:ORG .
-
-ns1:Barrick_Gold_Corp a ns1:ORG .
-
-ns1:Barrick_Gold_Corp_and_Bre-X_Minerals_Ltd a ns1:ORG .
-
-ns1:Basketball_Association a ns1:ORG .
-
-ns1:Basque a ns1:MISC .
-
-ns1:Bastia a ns1:ORG .
-
-ns1:Bayer_Leverkusen a ns1:ORG .
-
-ns1:Bayern_Munich a ns1:ORG .
-
-ns1:Behle_89 a ns1:PER .
-
-ns1:Beirut a ns1:LOC .
-
-ns1:Belarus a ns1:LOC .
+ns1:Behdad_Eghbali a ns1:PER .
 
 ns1:Belgian a ns1:MISC .
 
 ns1:Belgium a ns1:LOC .
 
-ns1:Belgrade a ns1:LOC .
+ns1:Bellis a ns1:ORG .
 
-ns1:Bellerive_Oval a ns1:LOC .
+ns1:Ben_Brereton a ns1:PER .
 
-ns1:Benfica a ns1:ORG .
+ns1:BlueCo a ns1:ORG,
+        ns1:PER .
 
-ns1:Benjamin a ns1:PER .
+ns1:Blue_Monster_Course a ns1:ORG .
 
-ns1:Benjamin_9.4-0-43-1 a ns1:PER .
+ns1:Blues a ns1:ORG .
 
-ns1:Benjamin_Netanyahu a ns1:PER .
-
-ns1:Bernd_Zobel a ns1:PER .
-
-ns1:Berwick a ns1:ORG .
-
-ns1:Betar_Jerusalem a ns1:ORG .
-
-ns1:Bharatiya_Janata_Party a ns1:ORG .
-
-ns1:Bill_Brett a ns1:PER .
-
-ns1:Bill_Clinton a ns1:PER .
-
-ns1:Bill_Jordan a ns1:PER .
-
-ns1:Billy_Dodds a ns1:PER .
-
-ns1:Birmingham a ns1:ORG .
-
-ns1:Blackburn a ns1:ORG .
-
-ns1:Blackpool a ns1:ORG .
-
-ns1:Blanc_collected a ns1:PER .
-
-ns1:Bnei_Yehuda a ns1:PER .
-
-ns1:Bob_Halverson a ns1:PER .
-
-ns1:Bob_Woolmer a ns1:PER .
-
-ns1:Bochum a ns1:ORG .
-
-ns1:Bologna a ns1:ORG .
-
-ns1:Bolton a ns1:ORG .
-
-ns1:Bombay a ns1:LOC .
-
-ns1:Bombings ns1:carry ns1:criminals .
-
-ns1:Bonn a ns1:LOC .
-
-ns1:Bordeaux a ns1:ORG .
-
-ns1:Boris_Yeltsin a ns1:PER .
-
-ns1:Borussia_Dortmund a ns1:ORG .
-
-ns1:Borussia_Monchengladbach a ns1:ORG .
-
-ns1:Boston a ns1:LOC .
+ns1:Bobby_Lammie a ns1:PER .
 
 ns1:Bournemouth a ns1:ORG .
 
-ns1:Boutros_Boutros-Ghali a ns1:PER .
+ns1:Bournemouth_full a ns1:MISC .
 
-ns1:Bradford a ns1:ORG .
+ns1:Brentford a ns1:LOC,
+        ns1:ORG .
 
-ns1:Bradford_Vaughan a ns1:ORG .
+ns1:Brereton a ns1:ORG .
 
-ns1:Braga a ns1:ORG .
+ns1:Brett_Hull a ns1:PER .
 
-ns1:Bratislava a ns1:LOC .
-
-ns1:Brazil a ns1:LOC .
-
-ns1:Brazilian a ns1:MISC .
-
-ns1:Bre-X_Minerals_Ltd a ns1:ORG .
-
-ns1:Brechin a ns1:ORG .
-
-ns1:Brendan_Intindola a ns1:PER .
-
-ns1:Brenden_206 a ns1:PER .
-
-ns1:Brentford a ns1:ORG .
-
-ns1:Breweries_Ltd a ns1:ORG .
-
-ns1:Brian_Burke a ns1:PER .
-
-ns1:Brian_Lara a ns1:PER .
-
-ns1:Brian_Laudrup a ns1:PER .
-
-ns1:Brian_Shimer a ns1:PER .
-
-ns1:Brighton a ns1:ORG .
-
-ns1:Bristol_City a ns1:ORG .
-
-ns1:Bristol_Rovers a ns1:ORG .
+ns1:Brighton a ns1:ORG,
+        ns1:PER .
 
 ns1:Britain a ns1:LOC .
 
-ns1:British a ns1:MISC .
+ns1:Briton a ns1:MISC .
 
-ns1:British_Airways a ns1:ORG .
+ns1:Brooks_Koepka a ns1:PER .
 
-ns1:British_Airways_Plc a ns1:ORG .
+ns1:Bruce_Mouat a ns1:PER .
 
-ns1:British_Columbia_1996-12-06 a ns1:LOC .
+ns1:Bruges a ns1:LOC .
 
-ns1:Bruno_N%27Gotty a ns1:PER .
+ns1:Bryson_DeChambeau a ns1:PER .
 
-ns1:Brussels_Newsroom a ns1:ORG .
+ns1:Bubba_Watson a ns1:PER .
 
-ns1:Brussels_Newsroom_%2B32 a ns1:ORG .
+ns1:Burnley a ns1:LOC .
 
-ns1:Bucharest_Newsroom a ns1:ORG .
+ns1:Caesar_The a ns1:PER .
 
-ns1:Budapest a ns1:LOC .
+ns1:Cameron_Archer a ns1:PER .
 
-ns1:Budapest_Bank a ns1:LOC .
+ns1:Cameron_Smith a ns1:PER .
 
-ns1:Budi_Santoso a ns1:PER .
-
-<http://example.org/Budisuryana_22/11/96> a ns1:PER .
-
-ns1:Buenos_Aires a ns1:LOC .
-
-ns1:Buenos_Aires_Newsroom a ns1:ORG .
-
-ns1:Bulgaria a ns1:LOC .
-
-ns1:Bulgarian a ns1:MISC .
-
-ns1:Bure ns1:suspend ns1:League .
-
-ns1:Burma a ns1:LOC .
-
-ns1:Burmese a ns1:MISC .
-
-ns1:Burnley a ns1:ORG .
-
-ns1:Burundi a ns1:LOC .
-
-ns1:Bury a ns1:ORG .
-
-ns1:Buza ns1:overpower ns1:police .
-
-ns1:C%24 a ns1:MISC .
-
-ns1:C._Ambrose a ns1:PER .
-
-ns1:C._Cairns a ns1:PER .
-
-ns1:C._Harris a ns1:PER .
-
-ns1:C._Hooper a ns1:PER .
-
-ns1:C._Spearman a ns1:PER .
-
-ns1:C._Walsh a ns1:PER .
-
-ns1:CAIRO_1996-12-06 a ns1:LOC .
-
-ns1:CALGARY a ns1:LOC .
-
-ns1:CANBERRA_1996-12-06 a ns1:LOC .
-
-ns1:CATTLE_CALVES_HOGS a ns1:ORG .
-
-ns1:CENTRAL_DIVISION a ns1:MISC .
-
-ns1:CHICAGO a ns1:LOC,
-        ns1:ORG .
-
-ns1:CHICAGO_1996-12-06 a ns1:ORG .
-
-ns1:CINCINNATI a ns1:ORG .
-
-ns1:CIS a ns1:LOC .
-
-ns1:CLEVELAND a ns1:ORG .
-
-ns1:COLORADO a ns1:LOC,
-        ns1:ORG .
-
-ns1:COPENHAGEN_1996-12-06 a ns1:LOC .
-
-ns1:CSKA_Moscow a ns1:ORG .
-
-ns1:CZECH a ns1:MISC .
-
-ns1:Caen a ns1:ORG .
-
-ns1:Cagliari a ns1:ORG .
-
-ns1:Cairns_8-1-35-1 a ns1:PER .
-
-ns1:Cairo a ns1:LOC .
-
-ns1:Calcutta a ns1:LOC .
-
-ns1:California a ns1:LOC .
-
-ns1:Cambridge a ns1:ORG .
-
-ns1:Cambridge_United a ns1:ORG .
-
-ns1:Camilla_Martin a ns1:PER .
-
-ns1:Can_Milan_sink a ns1:ORG .
+ns1:Can a ns1:LOC .
 
 ns1:Canada a ns1:LOC .
 
 ns1:Canadian a ns1:MISC .
 
-ns1:Canadian_Wheat_Board a ns1:ORG .
+ns1:Canadian_Hall_of_Famer_Gretzky a ns1:MISC .
 
-ns1:Canberra_Bureau_61-6_273-2730 a ns1:ORG .
+ns1:Capitals a ns1:ORG .
 
-ns1:Cannes a ns1:ORG .
-
-ns1:Canola_47.1_988.1_1135.5_46.7_894.9_822.0 a ns1:ORG .
-
-ns1:Canola_646.6_769.4_60.5_1902.0_2147.6 a ns1:ORG .
-
-ns1:Cape_Town a ns1:LOC .
-
-ns1:Carcass_Basis a ns1:PER .
-
-ns1:Cardiff a ns1:LOC,
-        ns1:ORG .
-
-ns1:Caribbean a ns1:LOC .
-
-ns1:Caribs a ns1:LOC .
-
-ns1:Carl_Hooper a ns1:PER .
-
-ns1:Carlisle a ns1:ORG .
-
-ns1:Carlo_Checchinato a ns1:PER .
-
-ns1:Carlo_Orlandi a ns1:PER .
-
-ns1:Carlos_Belo a ns1:PER .
-
-ns1:Carlos_Ponce a ns1:PER .
-
-ns1:Carlos_Secretario a ns1:PER .
-
-ns1:Caroline_Olivier a ns1:PER .
-
-ns1:Casey_Fitzrandolph a ns1:PER .
-
-ns1:Celta_Vigo a ns1:PER .
+ns1:Carlos_Alcaraz a ns1:PER .
 
 ns1:Celtic a ns1:ORG .
 
-ns1:Celtic_Glasgow a ns1:ORG .
+ns1:Champions_League a ns1:MISC,
+        ns1:PER .
 
-ns1:Central_Africa a ns1:LOC .
+ns1:Charl_Schwartzel a ns1:PER .
 
-ns1:Central_African_Republic a ns1:LOC .
-
-ns1:Central_Asia a ns1:LOC .
-
-ns1:Charleroi a ns1:LOC,
-        ns1:ORG .
-
-ns1:Charlton a ns1:ORG .
+ns1:Charlie_Taylor a ns1:PER .
 
 ns1:Chelsea a ns1:ORG,
         ns1:PER .
 
-ns1:Chen_Gang a ns1:PER .
-
-ns1:Chester a ns1:ORG .
-
-ns1:Chesterfield a ns1:ORG .
-
-ns1:Chicago a ns1:LOC .
-
-ns1:Chicago_8%2C674_484%2C018 a ns1:ORG .
-
-ns1:Chicago_Board a ns1:ORG .
-
-ns1:Chicago_Newsdesk a ns1:ORG .
+ns1:Chicago_Black_Hawks a ns1:ORG .
 
 ns1:Chile a ns1:LOC .
 
-ns1:Chilean a ns1:MISC .
+ns1:Christopher_Nkunku a ns1:PER .
 
-ns1:China a ns1:LOC .
+ns1:City a ns1:ORG .
 
-ns1:Chinese a ns1:MISC .
+ns1:Cole_Palmer a ns1:PER .
 
-ns1:Chris a ns1:PER .
+ns1:Comments a ns1:ORG,
+        ns1:PER .
 
-ns1:Chris_Aspin a ns1:PER .
+ns1:Conference_League a ns1:MISC .
 
-ns1:Chris_Hunt a ns1:PER .
+ns1:Conference_League_QF a ns1:MISC .
 
-ns1:Chris_Witty a ns1:PER .
+ns1:Copa_Libertadores a ns1:PER .
 
-ns1:Chris_Yarangga a ns1:PER .
+ns1:Cowdrey_Lecture a ns1:ORG,
+        ns1:PER .
 
-ns1:Christian_Rijavec a ns1:PER .
-
-ns1:Christophe_Grelombe a ns1:PER .
-
-ns1:Christophe_Pignol a ns1:PER .
-
-ns1:Christopher_Granville a ns1:PER .
-
-ns1:Church-led_meadiation a ns1:PER .
-
-ns1:Cibona_Zagreb a ns1:PER .
-
-ns1:Cincinnati a ns1:ORG .
-
-ns1:Civil_Aviation_Administration a ns1:ORG .
-
-ns1:Civil_Aviation_Authority a ns1:ORG .
-
-ns1:Clarence_Seedorf a ns1:PER .
-
-ns1:Clarence_Woolmer a ns1:PER .
-
-ns1:Claus_distributing a ns1:PER .
-
-ns1:Clean_tankers a ns1:PER .
-
-ns1:Cleveland a ns1:ORG .
-
-ns1:Clinton_Whitelaw a ns1:PER .
-
-ns1:Clinton_aims a ns1:PER .
-
-ns1:Clyde a ns1:ORG .
-
-ns1:Clydebank a ns1:ORG .
-
-ns1:Colchester a ns1:ORG .
-
-ns1:Colin_Cameron a ns1:PER .
-
-ns1:Cologne a ns1:ORG .
-
-ns1:Colombia a ns1:LOC .
-
-ns1:Colorado_1996-12-07 a ns1:LOC .
-
-ns1:Commission a ns1:ORG .
-
-ns1:Congress a ns1:ORG .
-
-ns1:Corn a ns1:ORG .
-
-ns1:Corn_4.4_15.1_87.0_0.6_22.1_11.1 a ns1:ORG .
-
-ns1:Corn_79.6_163.5_9.4_95.7_252.0 a ns1:ORG .
-
-ns1:Cornell_Brown a ns1:PER .
-
-ns1:Costa a ns1:LOC .
-
-ns1:Courtney_Walsh a ns1:PER .
-
-ns1:Coventry a ns1:ORG .
-
-ns1:Cowdenbeath a ns1:ORG .
-
-ns1:Craig_Quinnell a ns1:PER .
-
-ns1:Credit_Suisse a ns1:ORG .
-
-ns1:Crewe a ns1:ORG .
-
-ns1:Croat a ns1:MISC .
-
-ns1:Croatia a ns1:LOC .
+ns1:Craven_Cottage a ns1:LOC .
 
 ns1:Croatian a ns1:MISC .
 
-ns1:Crude_petroleum_2%2C557_2%2C832_15%2C838_17%2C648 a ns1:ORG .
-
 ns1:Crystal_Palace a ns1:ORG .
 
-ns1:Cuba a ns1:LOC .
-
-ns1:Cup a ns1:MISC .
-
-ns1:Curr_Wk a ns1:PER .
-
-ns1:Cyberspace_squabbles a ns1:PER .
+ns1:Cze a ns1:PER .
 
 ns1:Czech a ns1:MISC .
 
-ns1:Czech_Civic_Democratic_Party a ns1:ORG .
+ns1:Darren_Fletcher a ns1:PER .
 
-ns1:Czech_Republic a ns1:LOC .
+ns1:Darren_Fletcher_Chelsea a ns1:PER .
 
-ns1:DAKAR_1996-12-06 a ns1:LOC .
+ns1:Darren_Fletcher_Southampton a ns1:PER .
 
-ns1:DALLAS a ns1:LOC .
+ns1:Darren_Mowbray a ns1:PER .
 
-ns1:DAX a ns1:MISC .
+ns1:DeChambeau a ns1:PER .
 
-ns1:DENVER a ns1:PER .
+ns1:De_Bruyne a ns1:PER .
 
-ns1:DES_MOINES_1996-12-06 a ns1:LOC .
-
-ns1:DETROIT a ns1:ORG .
-
-ns1:DIYARBAKIR a ns1:LOC .
-
-ns1:DODGE_CITY_1996-12-06 a ns1:LOC .
-
-ns1:DUBLIN_1996-12-07 a ns1:LOC .
-
-ns1:DUTCH a ns1:MISC .
-
-ns1:Damascus a ns1:LOC .
-
-ns1:Dan_Crowley a ns1:PER .
-
-ns1:Dan_Cuo a ns1:PER .
-
-ns1:Dan_Petrescu a ns1:PER .
-
-ns1:Dan_finishing a ns1:PER .
-
-ns1:Daniel a ns1:PER .
-
-ns1:Daniel_Bravo a ns1:PER .
-
-ns1:Daniel_Herbert a ns1:PER .
-
-ns1:Daniel_Manu a ns1:PER .
-
-ns1:Daniel_Prodan a ns1:PER .
-
-ns1:Danila_28.5 a ns1:PER .
-
-ns1:Dariusz_Rosati a ns1:PER .
-
-ns1:Darlington a ns1:ORG .
-
-ns1:Darren_Garforth a ns1:PER .
-
-ns1:Darren_Jackson a ns1:PER .
-
-ns1:Dave_MacEachern a ns1:PER .
-
-ns1:David_Boon a ns1:PER .
-
-ns1:David_Brinkerhoff a ns1:PER .
-
-ns1:David_Campese a ns1:PER .
-
-ns1:David_Dofara a ns1:PER .
-
-ns1:David_Giffin a ns1:PER .
-
-ns1:David_Snow a ns1:PER .
-
-ns1:David_Wilson a ns1:PER .
-
-ns1:Davies a ns1:PER .
-
-ns1:Davis_Love a ns1:PER .
-
-ns1:Dean_Holdsworth a ns1:PER .
-
-ns1:Dean_Jones a ns1:PER .
-
-ns1:Dean_Sturridge a ns1:PER .
-
-ns1:Dean_Ward a ns1:PER .
-
-ns1:Dean_Windass a ns1:PER .
-
-ns1:Defender_Hassan_Abbas a ns1:PER .
-
-ns1:Dejan_Koturovic a ns1:PER .
-
-ns1:Dejan_Savicevic a ns1:PER .
-
-<http://example.org/Deligst_20/11/96> a ns1:PER .
-
-ns1:Delphis_Hanover a ns1:PER .
-
-ns1:Democratic a ns1:MISC .
-
-ns1:Democratic_Convention a ns1:MISC .
-
-ns1:Democratic_Union a ns1:ORG .
-
-ns1:Democrats a ns1:MISC .
+ns1:De_Ronde a ns1:PER .
 
 ns1:Denmark a ns1:LOC .
 
-ns1:Dennis_Luebke a ns1:PER .
+ns1:Derby a ns1:PER .
 
-ns1:Deportivo_Coruna a ns1:ORG .
+ns1:Derby_County a ns1:ORG .
 
-ns1:Derby a ns1:ORG .
+ns1:Diaz a ns1:PER .
 
-ns1:Derek_da a ns1:PER .
+ns1:Djokovic a ns1:PER .
 
-ns1:Des_Terblanche a ns1:PER .
+ns1:Djokovicsaid a ns1:PER .
 
-ns1:Desmond_Supple a ns1:PER .
+ns1:Dustin_Johnson a ns1:PER .
 
-ns1:Dick_Spring a ns1:PER .
+ns1:Dutchman a ns1:MISC .
 
-ns1:Diego_Dominguez a ns1:PER .
+ns1:Dyson a ns1:PER .
 
-ns1:Dieter_Thoma a ns1:PER .
+ns1:Edmonton_Oilers a ns1:ORG .
 
-ns1:Dimas_Teixeira a ns1:PER .
+ns1:Edwards a ns1:LOC,
+        ns1:ORG .
 
-ns1:Dirk_Wiese a ns1:PER .
+ns1:Elisa_Longo_Borghini a ns1:PER .
 
-ns1:Don_Rieck a ns1:PER .
+ns1:Eng a ns1:ORG .
 
-ns1:Don_Robertson a ns1:PER .
-
-ns1:Doncaster a ns1:ORG .
-
-ns1:Dong_Jiong a ns1:PER .
-
-ns1:Double a ns1:PER .
-
-ns1:Doug_Young a ns1:PER .
-
-ns1:Dow a ns1:MISC .
-
-ns1:Downing_Street a ns1:ORG .
-
-ns1:Dumbarton a ns1:ORG .
-
-ns1:Dundee a ns1:ORG .
-
-ns1:Dundee_United a ns1:ORG .
-
-ns1:Dunfermline a ns1:ORG .
-
-ns1:Durum_1168.9_1225.0_44.3_965.3_1069.6 a ns1:ORG .
-
-ns1:Durum_129.0_1515.9_1220.6_4.6_75.8_73.3 a ns1:ORG .
-
-ns1:Dutch a ns1:MISC .
-
-ns1:Dynamo_Moscow a ns1:ORG .
-
-ns1:EASTERN_CONFERENCE a ns1:MISC .
-
-ns1:EASTERN_DIVISION a ns1:MISC .
-
-ns1:ENGLAND a ns1:LOC .
-
-ns1:ENGLISH a ns1:MISC .
-
-ns1:ENGLISH_F.A._CUP a ns1:MISC .
-
-ns1:ENGLISH_LEAGUE a ns1:MISC .
-
-ns1:ENGLISH_LEAGUE_AND_CUP a ns1:MISC .
-
-ns1:ETA a ns1:ORG .
-
-ns1:EU a ns1:ORG .
-
-ns1:EU_languages a ns1:ORG .
-
-ns1:EU_offcial a ns1:ORG .
-
-ns1:Eagles_quarterback a ns1:PER .
-
-ns1:East a ns1:LOC .
-
-ns1:East_Coast a ns1:ORG .
-
-ns1:East_Fife a ns1:ORG .
-
-ns1:East_Stirling a ns1:ORG .
-
-ns1:East_Timor_1996-12-06 a ns1:ORG .
-
-ns1:Ebbw_Vale a ns1:ORG .
-
-ns1:Economic_Planning_Agency a ns1:ORG .
-
-ns1:Edna_Fernandes a ns1:PER .
-
-ns1:Eduardo_Aninat a ns1:PER .
-
-ns1:Efes_Pilsen a ns1:PER .
-
-ns1:Egypt a ns1:LOC .
-
-ns1:Egyptian a ns1:MISC .
-
-ns1:El_Mundo a ns1:ORG .
-
-ns1:Electronic_Data a ns1:ORG .
-
-ns1:Elena_Koroleva a ns1:PER .
-
-ns1:Elgin_City a ns1:ORG .
-
-ns1:Elif_Kaban a ns1:PER .
-
-ns1:Energy_Ministry a ns1:ORG .
+ns1:Eng%29%3B%2B9I_Poulter a ns1:PER .
 
 ns1:England a ns1:LOC .
 
 ns1:English a ns1:MISC .
 
-ns1:English_F.A._Challenge a ns1:MISC .
+ns1:Enzo_Fernandez a ns1:PER .
 
-ns1:Enrique a ns1:PER .
-
-ns1:Eric_Bergoust a ns1:PER .
-
-ns1:Eric_Cleymans a ns1:PER .
-
-ns1:Ervin_Fakaj a ns1:PER .
-
-ns1:Estonia a ns1:LOC .
-
-ns1:Estonian a ns1:MISC .
-
-ns1:Estudiantes a ns1:ORG .
-
-ns1:Estudiantes_Madrid a ns1:ORG .
-
-ns1:Ethiopia a ns1:LOC .
-
-ns1:Eugene_Morris a ns1:ORG .
+ns1:Enzo_Maresca a ns1:PER .
 
 ns1:Euro a ns1:MISC .
 
-ns1:Europa_Cup a ns1:MISC .
-
 ns1:Europe a ns1:LOC .
-
-ns1:European a ns1:MISC .
-
-ns1:European_Champions_%27_League a ns1:MISC .
-
-ns1:European_Commission a ns1:ORG .
-
-ns1:European_Cup a ns1:MISC .
-
-ns1:European_Union a ns1:ORG .
-
-ns1:Europoean_Cup a ns1:MISC .
-
-ns1:Evelyn_Leopold a ns1:PER .
 
 ns1:Everton a ns1:ORG .
 
-ns1:Exeter a ns1:ORG .
+ns1:F1 a ns1:MISC .
 
-ns1:Exports_Domestic_Disappearance a ns1:ORG .
+ns1:Fabio_Carvalho a ns1:PER .
 
-ns1:F.A._Challenge_Cup a ns1:MISC .
+ns1:Fernando_Alonso a ns1:PER .
 
-ns1:FBI a ns1:ORG .
-
-ns1:FC_Hansa_Rostock a ns1:ORG .
-
-ns1:FC_St._Pauli a ns1:ORG .
-
-ns1:FDP a ns1:ORG .
-
-ns1:FIFA a ns1:ORG .
-
-ns1:FLORIDA a ns1:ORG .
-
-ns1:FRANKFURT_1996-12-06 a ns1:LOC .
-
-ns1:FREESTYLE_SKIING-WORLD_CUP a ns1:MISC .
-
-ns1:FRENCH_LEAGUE a ns1:MISC .
-
-ns1:FSA_INSURED a ns1:ORG .
-
-ns1:Fabrizio_Ravanelli a ns1:PER .
-
-ns1:Falkirk a ns1:ORG .
-
-ns1:Feb_97_79.94_79.67_75.55_77.01-81.80 a ns1:ORG .
-
-ns1:Federal_Reserve a ns1:ORG .
-
-ns1:Fernando_Couto a ns1:PER .
-
-ns1:Fernando_Hierro a ns1:PER .
-
-ns1:Fernando_Redondo a ns1:PER .
-
-ns1:Feyenoord a ns1:ORG .
-
-ns1:Finance_Ministry a ns1:ORG .
-
-ns1:Finland a ns1:LOC .
-
-ns1:Finland_1996-12-07 a ns1:LOC .
-
-ns1:Fiorentina a ns1:ORG .
-
-<http://example.org/First_Union_Capital_Markets_Corp.> a ns1:ORG .
-
-ns1:Fla._1996-12-06 a ns1:LOC .
-
-ns1:Flax_165.2_181.9_14.9_231.4_332.9 a ns1:ORG .
-
-ns1:Flax_7.2_154.1_235.7_1.1_22.2_15.7 a ns1:ORG .
-
-ns1:Florence a ns1:LOC .
+ns1:Ferrari a ns1:LOC,
+        ns1:ORG .
 
 ns1:Florida a ns1:LOC .
 
-ns1:Florida_1996-12-07 a ns1:LOC .
+ns1:Flynn_Downes a ns1:ORG .
 
-ns1:Florida_Supreme_Court a ns1:ORG .
+ns1:Foden a ns1:PER .
 
-ns1:Foreign_Affairs_Department a ns1:ORG .
-
-ns1:Foreign_Ministry a ns1:ORG .
-
-ns1:Forfar a ns1:ORG .
-
-ns1:Fortuna_Dusseldorf a ns1:ORG .
-
-ns1:Fortuna_Sittard a ns1:ORG .
+ns1:Football a ns1:PER .
 
 ns1:France a ns1:LOC .
 
-ns1:France_1996-12-06 a ns1:LOC .
+ns1:French_Open a ns1:MISC .
 
-ns1:France_1996-12-07 a ns1:LOC .
+ns1:Fulham a ns1:LOC,
+        ns1:ORG,
+        ns1:PER .
 
-ns1:France_853 a ns1:LOC .
+ns1:Fulham_How a ns1:ORG .
 
-ns1:Francis_Wewengken a ns1:PER .
+ns1:Fulham_Premier_League_Review a ns1:MISC .
 
-ns1:Frankfurt a ns1:LOC .
+ns1:Gary_Bettman a ns1:PER .
 
-ns1:Frankfurt_Newsroom a ns1:ORG .
+ns1:Gary_Neville a ns1:PER .
 
-ns1:Franziska_Schenk a ns1:PER .
-
-ns1:Freiburg a ns1:ORG .
-
-ns1:French a ns1:MISC .
-
-ns1:Frenchman a ns1:MISC .
-
-ns1:Front-month_heating a ns1:PER .
-
-ns1:Fulham a ns1:ORG .
-
-ns1:Fung_Permadi a ns1:PER .
-
-ns1:G._Blewett a ns1:PER .
-
-ns1:GA_PTS a ns1:PER .
-
-ns1:GENERAL_OBLIGATION_BONDS a ns1:ORG .
-
-ns1:GENEVA_1996-12-06 a ns1:LOC .
-
-ns1:GERMAN a ns1:MISC .
-
-ns1:GLASGOW_1996-12-07 a ns1:LOC .
-
-ns1:GMT a ns1:MISC .
-
-ns1:GRAND_PRIX a ns1:MISC .
-
-ns1:GRAND_SLAM_CUP a ns1:MISC .
-
-ns1:GREECE a ns1:LOC .
-
-ns1:GREEN_BAY a ns1:PER .
-
-ns1:GUNMEN_KILL a ns1:PER .
-
-ns1:GUNMEN_WOUND a ns1:PER .
-
-ns1:Gabon a ns1:LOC .
-
-ns1:Galatasaray a ns1:ORG .
-
-ns1:Garrett_Hines a ns1:PER .
-
-ns1:Garry_Galley a ns1:PER .
-
-ns1:Gary_Speed a ns1:PER .
-
-ns1:General_Administration_of_Customs a ns1:ORG .
-
-ns1:Geneva a ns1:LOC .
-
-ns1:Genoa a ns1:ORG .
-
-ns1:Geoff_Marsh a ns1:PER .
-
-ns1:George_Coste a ns1:PER .
-
-ns1:George_Nishiyama a ns1:PER .
-
-ns1:George_Weah a ns1:PER .
-
-ns1:Gerard_Van_Velde a ns1:PER .
-
-ns1:German a ns1:MISC .
+ns1:George_Russell a ns1:PER .
 
 ns1:Germany a ns1:LOC .
 
-ns1:Germany_1%2C135 a ns1:LOC .
+ns1:Get a ns1:LOC .
 
-ns1:Germany_1996-12-06 a ns1:LOC .
+ns1:Get_Chelsea a ns1:ORG .
 
-ns1:Gerry_Britton a ns1:PER .
+ns1:Get_Liverpool a ns1:ORG .
 
-ns1:Gianfranco_Fini a ns1:PER .
+ns1:Get_Manchester_City a ns1:ORG .
 
-ns1:Gianluca_Guidi a ns1:PER .
+ns1:Gianpiero_Lambiase a ns1:PER .
 
-ns1:Gianluca_Vialli a ns1:PER .
+ns1:Goalkeeper_Aaron_Ramsdale a ns1:PER .
 
-ns1:Gilbert_Le_Gras a ns1:PER .
+ns1:Goose a ns1:PER .
 
-ns1:Gillingham a ns1:ORG .
+ns1:Gordie_Howe a ns1:PER .
 
-ns1:Giovanni a ns1:PER .
+ns1:Grand_Slam a ns1:MISC .
 
-ns1:Glen_Cayeux a ns1:PER .
+ns1:Grand_Slam_Track a ns1:MISC .
 
-ns1:Glenn_Lawhon a ns1:PER .
+ns1:Grand_Slams a ns1:MISC .
 
-ns1:Glenn_McGrath a ns1:PER .
+ns1:Grant_Hardie a ns1:PER .
 
-ns1:Glentoran a ns1:ORG .
+ns1:Great_One a ns1:MISC .
 
-ns1:God a ns1:PER .
+ns1:Gretzky a ns1:LOC,
+        ns1:PER .
 
-ns1:Goias a ns1:ORG .
+ns1:Guardiola a ns1:ORG,
+        ns1:PER .
 
-ns1:Gong_Zhichao a ns1:PER .
+ns1:Hall a ns1:PER .
 
-ns1:Goran_Ivanisevic a ns1:PER .
+ns1:Hammy_McMillan a ns1:PER .
 
-ns1:Graafschap_Doetinchem a ns1:ORG .
+ns1:Helmut_Marko a ns1:PER .
 
-ns1:Grain_Commission a ns1:ORG .
+ns1:Howe a ns1:PER .
 
-ns1:Grand a ns1:MISC .
+ns1:Hull a ns1:PER .
 
-ns1:Grand_Prix a ns1:MISC .
-
-ns1:Grand_Slam_Cup a ns1:MISC .
-
-ns1:Greece a ns1:LOC .
-
-ns1:Greek a ns1:MISC .
-
-ns1:Green_Bay a ns1:PER .
-
-ns1:Greenock_Morton a ns1:ORG .
-
-ns1:Greg_Blewett a ns1:PER .
-
-ns1:Greg_Reid a ns1:PER .
-
-ns1:Grimsby a ns1:ORG .
-
-ns1:Groningen a ns1:ORG .
-
-ns1:Grunde_Njos a ns1:PER .
-
-ns1:Guingamp a ns1:ORG .
-
-ns1:Gulf a ns1:LOC .
-
-ns1:Gulf_Coast a ns1:LOC .
-
-ns1:Guy_Whittingham a ns1:PER .
-
-ns1:HAMBURG_1996-12-06 a ns1:LOC .
-
-ns1:HANOVER a ns1:LOC .
-
-ns1:HARARE_1996-12-06 a ns1:LOC .
-
-ns1:HARARE_1996-12-07 a ns1:LOC .
-
-ns1:HAVEL_HAS a ns1:PER .
-
-ns1:HAVEL_PRAISES_CZECH_NATIVE_ALBRIGHT_AS_FRIEND a ns1:ORG .
-
-ns1:HOUSTON a ns1:LOC,
-        ns1:ORG .
-
-ns1:HOUSTON_1996-12-05 a ns1:ORG .
-
-ns1:Haitham_Haddadin a ns1:PER .
-
-ns1:Hakme_attributes_Brazil a ns1:ORG .
-
-ns1:Hamburg a ns1:ORG .
-
-ns1:Hamburger_SV a ns1:PER .
-
-ns1:Hamilton a ns1:ORG .
-
-ns1:Hansa_Rostock a ns1:ORG .
-
-ns1:Hapoel_Beersheba a ns1:ORG .
-
-ns1:Hapoel_Beit_She%27an a ns1:ORG .
-
-ns1:Hapoel_Haifa a ns1:ORG .
-
-ns1:Hapoel_Jerusalem a ns1:ORG .
-
-ns1:Hapoel_Kfar_Sava a ns1:ORG .
-
-ns1:Hapoel_Petah_Tikva a ns1:ORG .
-
-ns1:Hapoel_Taiba a ns1:ORG .
-
-ns1:Hapoel_Taibe a ns1:ORG .
-
-ns1:Hapoel_Tel_Aviv a ns1:ORG .
-
-ns1:Harper_Williams a ns1:PER .
-
-ns1:Hartlepool a ns1:ORG .
-
-ns1:Hassan_Abbas a ns1:PER .
-
-ns1:Hassan_Ahmed a ns1:PER .
-
-ns1:Havel a ns1:PER .
-
-ns1:Havel_breathe a ns1:PER .
-
-ns1:Healy a ns1:PER .
-
-ns1:Hearts a ns1:ORG .
-
-ns1:Heavyweights_Telmex a ns1:PER .
-
-ns1:Hebron a ns1:LOC .
-
-ns1:Heerenveen a ns1:ORG .
-
-ns1:Helder_Cristovao a ns1:PER .
-
-ns1:Helmut_Kohl a ns1:PER .
-
-ns1:Henry_Hub a ns1:PER .
-
-ns1:Hereford a ns1:ORG .
-
-ns1:Hermawan_Susanto a ns1:PER .
-
-ns1:Hibernian a ns1:ORG .
-
-ns1:High a ns1:LOC .
-
-ns1:Hindu a ns1:MISC .
-
-ns1:Homestake_Mining_Co_tops_Wall_Street a ns1:ORG .
-
-ns1:Honda a ns1:ORG .
-
-ns1:Honda_Motor_Co_Ltd a ns1:ORG .
-
-ns1:Honda_RV_exceeds a ns1:ORG .
-
-ns1:Horii_Manabu a ns1:PER .
-
-ns1:Hosni_Mubarak a ns1:PER .
-
-ns1:House_of_Commons a ns1:ORG .
-
-ns1:House_of_Representatives a ns1:ORG .
-
-ns1:Houston a ns1:LOC .
-
-ns1:Hu_Zhilan a ns1:PER .
-
-ns1:Huber a ns1:PER .
-
-ns1:Huddersfield a ns1:ORG .
-
-ns1:Hull a ns1:ORG .
-
-ns1:Humane_Society a ns1:ORG .
-
-ns1:Hungarian a ns1:MISC .
-
-ns1:Hungary a ns1:LOC .
-
-ns1:Hwang_Sun_Hong a ns1:ORG .
-
-ns1:Hyundai a ns1:ORG .
-
-ns1:I._Healy a ns1:PER .
-
-ns1:INDIANAPOLIS_1996-12-06 a ns1:PER .
-
-ns1:ITALIAN a ns1:MISC .
-
-ns1:Ian_Dougan a ns1:PER .
-
-ns1:Ian_Harvey a ns1:PER .
-
-ns1:Ian_Healy a ns1:PER .
-
-ns1:Ian_Jones a ns1:PER .
-
-ns1:Ian_Lang a ns1:PER .
-
-ns1:Ian_Wright a ns1:PER .
-
-ns1:Ijaz_Ahmad a ns1:PER .
-
-ns1:Illinois a ns1:LOC .
-
-ns1:India a ns1:LOC .
-
-ns1:India-South_Africa a ns1:LOC .
-
-ns1:India_1996-12-06 a ns1:LOC .
-
-ns1:India_1996-12-07 a ns1:LOC .
-
-ns1:Indian a ns1:MISC .
-
-ns1:Indian_Ocean a ns1:LOC .
-
-ns1:Indiana a ns1:LOC .
-
-ns1:Indianapolis a ns1:LOC .
-
-ns1:Indonesia a ns1:LOC .
-
-ns1:Indonesian a ns1:MISC .
-
-ns1:Indra_Wijaya a ns1:PER .
-
-ns1:Information_Technology_Association a ns1:ORG .
-
-ns1:Inkatha_Freedom_Party a ns1:ORG .
-
-ns1:Inoue_Junichi a ns1:PER .
-
-ns1:Institute_of_Policy_Studies a ns1:ORG .
-
-ns1:Inter a ns1:ORG .
-
-ns1:Interfax a ns1:ORG .
-
-ns1:International a ns1:ORG .
-
-ns1:International_Bonds a ns1:ORG .
-
-ns1:International_Boxing_Federation_non-title_10-round_heavyweight a ns1:ORG .
-
-ns1:International_Finance_Bureau a ns1:ORG .
-
-ns1:International_Labour_Organisation a ns1:ORG .
-
-ns1:International_Monetary_Fund a ns1:ORG .
-
-ns1:Internet a ns1:MISC .
-
-ns1:Inverness_Thistle a ns1:ORG .
-
-ns1:Inzamamul_Haq a ns1:PER .
-
-ns1:Iowa-S_Minn a ns1:PER .
-
-ns1:Ipswich a ns1:ORG .
-
-ns1:Iran a ns1:LOC .
-
-ns1:Iraq a ns1:LOC .
-
-ns1:Ireland a ns1:LOC .
+ns1:Ipswich a ns1:ORG,
+        ns1:PER .
 
 ns1:Irish a ns1:MISC .
 
-ns1:Ironi_Rishon a ns1:PER .
-
-ns1:Islamic_Conference a ns1:MISC .
-
-ns1:Israel a ns1:LOC .
-
-ns1:Israeli a ns1:MISC .
-
-ns1:Israelis a ns1:MISC .
-
 ns1:Italian a ns1:MISC .
 
-ns1:Italy a ns1:LOC .
+ns1:Ivan_Juric a ns1:PER .
 
-ns1:Italy_1996-12-06 a ns1:LOC .
+ns1:Izzy_Christiansen a ns1:PER .
 
-ns1:Italy_887 a ns1:LOC .
+ns1:Jack_Clarke a ns1:PER .
 
-ns1:Itar-Tass a ns1:ORG .
+ns1:Jack_Draper a ns1:PER .
 
-ns1:Ivan_Francescato a ns1:PER .
+ns1:Jackson a ns1:PER .
 
-ns1:Ivan_Zamorano a ns1:PER .
+ns1:Jakub_Mensik a ns1:PER .
 
-ns1:Ivan_de a ns1:PER .
+ns1:James_Acaster a ns1:PER .
 
-ns1:Ivory_Coast a ns1:LOC .
+ns1:Jan_Bednarek a ns1:PER .
 
-ns1:J._Adams a ns1:PER .
+ns1:Jannik a ns1:LOC,
+        ns1:PER .
 
-ns1:J._Gillespie a ns1:PER .
-
-ns1:J._Murray a ns1:PER .
-
-ns1:J._Vaughan a ns1:PER .
-
-ns1:JACKSONVILLE a ns1:LOC .
-
-ns1:JAKARTA_1996-12-06 a ns1:LOC .
-
-ns1:JCPenney_Classic a ns1:MISC .
-
-ns1:JERUSALEM_1996-12-06 a ns1:LOC .
-
-ns1:JERUSALEM_1996-12-07 a ns1:LOC .
-
-ns1:JOHANNESBURG_1996-12-06 a ns1:LOC .
-
-ns1:Jack_Charlton a ns1:PER .
-
-ns1:Jacques_Chirac a ns1:PER .
-
-ns1:Jacques_Stas a ns1:PER .
-
-ns1:Jaegal_Sung-Yeol a ns1:PER .
-
-ns1:Jakarta a ns1:LOC .
-
-ns1:James_Love a ns1:PER .
+ns1:Jannik_Sinner a ns1:PER .
 
 ns1:Japan a ns1:LOC .
 
+ns1:Japan_How a ns1:LOC .
+
 ns1:Japanese a ns1:MISC .
 
-ns1:Jared_Tomich a ns1:PER .
+ns1:Jaromir_Jagr a ns1:PER .
 
-ns1:Jason_Belser a ns1:PER .
+ns1:Jason_Wilcox a ns1:PER .
 
-ns1:Jason_Gillespie a ns1:PER .
+ns1:JavaScript a ns1:PER .
 
-ns1:Jason_Little a ns1:PER .
+ns1:Joaquin_Niemann a ns1:PER .
 
-ns1:Javier_Clemente a ns1:PER .
+ns1:Johnson a ns1:PER .
 
-ns1:Javier_Pertile a ns1:PER .
+ns1:Jon_Rahm a ns1:PER .
 
-ns1:Jean_van a ns1:PER .
+ns1:Josh_Widdicombe a ns1:PER .
 
-ns1:Jeff_Bean a ns1:PER .
+ns1:Jurgen_Klopp a ns1:PER .
 
-ns1:Jeon_Woon a ns1:PER .
+ns1:Juri%C4%87_The a ns1:PER .
 
-ns1:Jeremy_Wotherspoon a ns1:PER .
+ns1:Juric a ns1:PER .
 
-ns1:Jerusalem a ns1:LOC .
+ns1:Juric_whose a ns1:PER .
 
-ns1:Jewish a ns1:MISC .
+ns1:Katarzyna_Niewiadoma a ns1:PER .
 
-ns1:Jews a ns1:MISC .
+ns1:Kiernan_Dewsbury a ns1:PER .
 
-ns1:Jim_Bolger a ns1:PER .
+ns1:Kirill_Dmitriev a ns1:PER .
 
-ns1:Jim_Courier a ns1:PER .
+ns1:Kopecky a ns1:PER .
 
-ns1:Jim_Harbaugh a ns1:PER .
+ns1:LIV a ns1:ORG .
 
-ns1:Jim_Herberich a ns1:PER .
+ns1:LIV_Golf a ns1:ORG .
 
-ns1:Jim_Moran a ns1:PER .
+ns1:LIV_Miami a ns1:PER .
 
-ns1:Jimmy_Adams a ns1:PER .
+ns1:Lando_Norris a ns1:PER .
 
-ns1:Jin_Hua a ns1:PER .
-
-ns1:Jiri_Dzmura a ns1:PER .
-
-ns1:Joao_Havelange a ns1:PER .
-
-ns1:Joao_Manuel_Pinto a ns1:PER .
-
-ns1:Joao_Vieira_Pinto a ns1:PER .
-
-ns1:John_Gorst a ns1:PER .
-
-ns1:John_Langmore a ns1:PER .
-
-ns1:John_Lewis a ns1:PER .
-
-ns1:John_Major a ns1:PER .
-
-ns1:John_Mills_Jr a ns1:PER .
-
-ns1:John_Paul a ns1:PER .
-
-ns1:John_Vance a ns1:PER .
-
-ns1:Jonathan_Wright a ns1:PER .
-
-ns1:Jones a ns1:PER .
-
-ns1:Jones_became a ns1:PER .
-
-ns1:Jordan a ns1:LOC .
-
-ns1:Jorge_Cadete a ns1:PER .
-
-ns1:Jorge_Costa a ns1:PER .
-
-ns1:Jose_Amavisca a ns1:PER .
-
-ns1:Jose_Barroso a ns1:PER .
-
-ns1:Jose_Luis a ns1:PER .
-
-ns1:Jose_Ramos a ns1:PER .
-
-ns1:Jose_Ribalta a ns1:PER .
-
-ns1:Jose_Taira a ns1:PER .
-
-ns1:JosepGuardiola a ns1:ORG .
-
-ns1:Joseph_Garba a ns1:PER .
-
-ns1:Juan_Aisa a ns1:PER .
-
-ns1:Juan_Pizzi a ns1:PER .
-
-ns1:Juan_Roque a ns1:PER .
-
-ns1:Jun_97_77.53_77.24_73.17_74.62-79.35 a ns1:ORG .
-
-ns1:Justin a ns1:PER .
-
-ns1:Justin_Hobday a ns1:PER .
-
-ns1:Juventus a ns1:ORG .
-
-ns1:K.J._Matthew a ns1:PER .
-
-ns1:K.T._Arasu a ns1:PER .
-
-ns1:K._Benjamin a ns1:PER .
-
-ns1:KANSAS_CITY a ns1:ORG .
-
-ns1:Kansas a ns1:LOC .
-
-ns1:Kansas_City a ns1:LOC .
-
-ns1:Karachi a ns1:LOC .
-
-ns1:Karlsruhe a ns1:ORG .
-
-ns1:Katja_Seizinger a ns1:PER .
-
-ns1:Kennedy_3-0-24-0 a ns1:PER .
-
-ns1:Kenneth_Benjamin a ns1:PER .
-
-ns1:Kenneth_Clarke a ns1:PER .
-
-ns1:Kenya a ns1:LOC .
-
-ns1:Kilmarnock a ns1:ORG .
-
-ns1:Kim_Byung a ns1:PER .
-
-ns1:Kim_Do a ns1:PER .
-
-ns1:Kim_Joo a ns1:PER .
-
-ns1:Kim_Pan a ns1:PER .
-
-ns1:Kim_Yoon-man a ns1:PER .
-
-ns1:Kinder_Bologna a ns1:PER .
-
-ns1:Kinshasa a ns1:LOC .
-
-ns1:Klara_Gajduskova a ns1:PER .
-
-ns1:Klaus a ns1:PER .
-
-ns1:Kohl a ns1:PER .
-
-ns1:Koram_Bank a ns1:ORG .
-
-ns1:Kremlin a ns1:LOC .
-
-ns1:Kristie_Marshall a ns1:PER .
-
-ns1:Kurd a ns1:MISC .
-
-ns1:Kurdish a ns1:MISC .
-
-ns1:Kurdistan_Workers_Party a ns1:ORG .
-
-ns1:Kuwait a ns1:LOC .
-
-ns1:Kwasniewski a ns1:PER .
-
-ns1:Kyi ns1:restrict ns1:government .
-
-ns1:L._Germon a ns1:PER .
-
-ns1:LA_CLIPPERS a ns1:ORG .
-
-ns1:LA_LAKERS a ns1:ORG .
-
-ns1:LA_LAKERS_92_Orlando a ns1:ORG .
-
-ns1:LISBON_1996-12-06 a ns1:LOC .
-
-ns1:LOMBARDI_AWARD a ns1:PER .
-
-ns1:LONDON_1996-12-06 a ns1:LOC .
-
-ns1:LONDON_1996-12-07 a ns1:LOC .
-
-ns1:LOS_ANGELES a ns1:ORG .
-
-ns1:LOS_ANGELES_1996-12-05 a ns1:ORG .
-
-ns1:LUXEMBOURG_CHRISTMAS a ns1:PER .
-
-ns1:Labour a ns1:ORG .
-
-ns1:Labour_and_National a ns1:ORG .
-
-ns1:Laurent_Blanc a ns1:PER .
-
-ns1:Laurent_Kabila a ns1:PER .
-
-ns1:Lazio a ns1:ORG .
-
-ns1:Le_Havre a ns1:ORG .
-
-ns1:League_title-holders_Steaua_Bucharest a ns1:ORG .
-
-ns1:Lebanese a ns1:MISC .
-
-ns1:Lebanon a ns1:LOC .
-
-ns1:Lee_Bowyer a ns1:PER .
-
-ns1:Lee_Kyou-hyuk a ns1:PER .
-
-ns1:Lee_Young a ns1:PER .
+ns1:Latest_Liverpool a ns1:ORG .
 
 ns1:Leeds a ns1:ORG .
 
-ns1:Leeds_United a ns1:ORG .
+ns1:Legia_Warsaw a ns1:ORG .
 
 ns1:Leicester a ns1:LOC .
 
-ns1:Lens a ns1:ORG .
+ns1:Leishman a ns1:PER .
 
-ns1:Les_Ferdinand a ns1:PER .
+ns1:Liam_Delap a ns1:PER .
 
-ns1:Lester_Lawhon a ns1:PER .
+ns1:Liane_Lippert a ns1:PER .
 
-ns1:Leyton_Orient a ns1:ORG .
+ns1:Liege a ns1:LOC,
+        ns1:ORG .
 
-ns1:Liberian a ns1:MISC .
-
-ns1:Lieutenant-General_Maurice a ns1:PER .
-
-ns1:Lille a ns1:ORG .
-
-ns1:Lincoln a ns1:ORG .
-
-ns1:Little a ns1:LOC .
+ns1:Live a ns1:ORG .
 
 ns1:Liverpool a ns1:ORG .
 
-ns1:Livingston a ns1:ORG .
+ns1:London_Stadium a ns1:ORG .
 
-ns1:Liviu_Ciobotariu_of_National_Bucharest a ns1:ORG .
+ns1:Los_Angeles_Kings a ns1:ORG .
 
-ns1:Ljubljana a ns1:LOC .
+ns1:Lotte_Kopecky a ns1:PER .
 
-ns1:Llanelli_97 a ns1:PER .
+ns1:M_Leishman a ns1:PER .
 
-ns1:Lloyd a ns1:ORG .
+ns1:Madrid_Open a ns1:MISC .
 
-ns1:Lloyds_Shipping a ns1:ORG .
+ns1:Malo_Gusto a ns1:PER .
 
-ns1:Lombardi_Award a ns1:PER .
+ns1:Man_City a ns1:ORG .
 
-ns1:London a ns1:LOC .
+ns1:Manchester a ns1:LOC .
 
-ns1:London_Newsroom a ns1:ORG .
+ns1:Manchester_City a ns1:LOC,
+        ns1:ORG .
 
-ns1:London_Newsroom_%2B44-171-542_7717 a ns1:ORG .
+ns1:Manchester_How_Verstappen a ns1:ORG .
 
-ns1:London_Stock_Exchange a ns1:ORG .
+ns1:Manchester_Liverpool a ns1:LOC .
 
-ns1:Los_Angeles a ns1:LOC .
+ns1:Manchester_United a ns1:LOC,
+        ns1:ORG .
 
-ns1:Low_sulphur a ns1:PER .
+ns1:Marc_Cucurella a ns1:PER .
 
-ns1:Luc_Nilis a ns1:PER .
+ns1:Marc_Leishman a ns1:PER .
 
-ns1:Lucky_Emdldm a ns1:PER .
+ns1:Maresca a ns1:LOC,
+        ns1:PER .
 
-ns1:Luis a ns1:PER .
+ns1:Marko a ns1:PER .
 
-ns1:Luis_Figo a ns1:PER .
+ns1:Martin a ns1:PER .
 
-ns1:Luis_Milla a ns1:PER .
+ns1:Martinez a ns1:PER .
 
-ns1:Luton a ns1:ORG .
+ns1:Mathieu_van_der_Poel a ns1:PER .
 
-ns1:Luxembourg a ns1:LOC .
+ns1:Matt_O%27Riley a ns1:PER .
 
-ns1:Lynnley_Browning a ns1:PER .
+ns1:Max a ns1:PER .
 
-ns1:Lyon a ns1:ORG .
+ns1:Max_Aarons a ns1:PER .
 
-ns1:M._Bevan a ns1:PER .
+ns1:Max_Verstappen a ns1:PER .
 
-ns1:M._Taylor a ns1:PER .
+ns1:Maxwel_Cornet a ns1:PER .
 
-ns1:M._Wasim a ns1:PER .
+ns1:McIlroy a ns1:PER .
 
-ns1:M._Waugh a ns1:PER .
+ns1:McLaren a ns1:ORG .
 
-ns1:MADRID a ns1:LOC .
+ns1:McLarens a ns1:ORG .
 
-ns1:MADRID_1996-12-06 a ns1:LOC .
+ns1:Mensik a ns1:PER .
 
-ns1:MADRID_1996-12-07 a ns1:LOC .
-
-ns1:MANCHESTER_UNITED a ns1:LOC .
-
-ns1:MELBOURNE_1996-12-06 a ns1:LOC .
-
-ns1:MEXICO_CITY a ns1:LOC .
-
-ns1:MEXICO_CITY_1996-12-06 a ns1:LOC .
-
-ns1:MIAMI a ns1:LOC .
-
-ns1:MIDEAST a ns1:LOC .
-
-ns1:MIDWEST_DIVISION a ns1:MISC .
-
-ns1:MILWAUKEE a ns1:ORG .
-
-ns1:MINNESOTA a ns1:ORG .
-
-ns1:MONTREAL a ns1:ORG .
-
-ns1:MOODY_%27S a ns1:ORG .
-
-ns1:MOSCOW_1996-12-06 a ns1:LOC .
-
-ns1:MSV_Duisburg a ns1:ORG .
-
-ns1:Maccabi_Haifa a ns1:ORG .
-
-ns1:Maccabi_Herzliya a ns1:ORG .
-
-ns1:Maccabi_Petah_Tikva a ns1:ORG .
-
-ns1:Maccabi_Tel_Aviv a ns1:ORG .
-
-ns1:Macedonia a ns1:LOC .
-
-ns1:Madagascar a ns1:LOC .
-
-ns1:Mahammad_Rashid a ns1:PER .
-
-ns1:Malaysia a ns1:LOC .
-
-ns1:Man a ns1:ORG .
-
-ns1:Manchester a ns1:ORG .
-
-ns1:Manchester_City a ns1:ORG .
-
-ns1:Manchester_United a ns1:ORG .
-
-ns1:Manitoba a ns1:LOC .
-
-ns1:Mansfield a ns1:ORG .
-
-ns1:Mar_97_76.37_76.12_72.02_73.47-78.24 a ns1:ORG .
-
-ns1:Marc_Cohen a ns1:PER .
-
-ns1:Marc_Pearl a ns1:PER .
-
-ns1:Marcello_Cuttitta a ns1:PER .
-
-ns1:Marcelo a ns1:PER .
-
-ns1:Marcelo_Otero a ns1:PER .
-
-ns1:Marcin_Grajewski a ns1:PER .
-
-ns1:Marco a ns1:PER .
-
-ns1:Marco_Caputo a ns1:PER .
-
-ns1:Marco_Delvecchio a ns1:PER .
-
-ns1:Marcus_Gayle a ns1:PER .
-
-ns1:Margaret_Thatcher a ns1:PER .
-
-ns1:Marianne_Timmer a ns1:PER .
-
-ns1:Mario_Stanic a ns1:PER .
-
-ns1:Mark a ns1:PER .
-
-ns1:Mark_Cairns a ns1:PER .
-
-ns1:Mark_Cayeux a ns1:PER .
-
-ns1:Mark_McNulty a ns1:PER .
-
-ns1:Mark_Murless a ns1:PER .
-
-ns1:Mark_Taylor a ns1:PER .
-
-ns1:Mark_Waugh a ns1:PER .
-
-ns1:Mark_Woodforde a ns1:PER .
-
-ns1:Marseille a ns1:ORG .
-
-ns1:Marshall_Faulk a ns1:PER .
-
-ns1:Martin_Londgaard_Hansen a ns1:PER .
-
-ns1:Martina_Ertl a ns1:PER .
-
-ns1:Matthew a ns1:PER .
-
-ns1:Matthew_Burke a ns1:PER .
-
-ns1:Matthew_Le a ns1:PER .
-
-ns1:Mauritania a ns1:LOC .
-
-ns1:Mauritian a ns1:MISC .
-
-ns1:Mauritius a ns1:LOC .
-
-ns1:Mediterranean a ns1:MISC .
-
-ns1:Melbourne a ns1:LOC .
-
-ns1:Melbourne_Cricket_Ground a ns1:ORG .
-
-ns1:Mergers_Commission a ns1:ORG .
-
-ns1:Mesipia_77.5 a ns1:PER .
-
-ns1:Metz a ns1:ORG .
-
-ns1:Mexican a ns1:MISC .
-
-ns1:Mexico a ns1:LOC .
-
-ns1:Mexico_City a ns1:LOC .
-
-ns1:Mia_Audina a ns1:PER .
+ns1:Mercedes a ns1:PER .
 
 ns1:Miami a ns1:LOC .
 
-ns1:Michael_Bevan a ns1:PER .
+ns1:Miami_Mary_Beard a ns1:LOC .
 
-ns1:Michael_Brial a ns1:PER .
+ns1:Miami_Open a ns1:MISC .
 
-ns1:Michael_Cornwell a ns1:PER .
+ns1:Micah_Richards a ns1:PER .
 
-ns1:Michael_DiVenuto a ns1:PER .
-
-ns1:Michael_Frederick a ns1:PER .
-
-ns1:Michael_Grove a ns1:PER .
-
-ns1:Michael_Heseltine a ns1:PER .
-
-ns1:Michael_Lynagh a ns1:PER .
-
-ns1:Michel_Hansenne a ns1:PER .
-
-ns1:Middlesbrough a ns1:ORG .
-
-ns1:Mike_Cito a ns1:PER .
-
-ns1:Mike_Hulbert a ns1:PER .
-
-ns1:Mike_McCurry a ns1:PER .
+ns1:Mickelson a ns1:PER .
 
 ns1:Milan a ns1:ORG .
 
-ns1:Milan_Rapajic a ns1:ORG .
+ns1:Moises_Caicedo a ns1:PER .
 
-ns1:Millwall a ns1:ORG .
+ns1:Monte_Carlo a ns1:LOC,
+        ns1:PER .
 
-ns1:Minneapolis_306%2C364_153%2C231 a ns1:LOC .
+ns1:Monte_Carlo_Masters a ns1:ORG .
 
-ns1:Minnesota_95 a ns1:ORG .
+ns1:Monuments a ns1:PER .
 
-ns1:Mohamed_Benchaou a ns1:PER .
-
-ns1:Mohamed_Ouda a ns1:PER .
-
-ns1:Mohammed_Afash a ns1:PER .
-
-ns1:Mohammed_Rashid a ns1:PER .
-
-ns1:Moin_Khan a ns1:PER .
-
-ns1:Monaco a ns1:ORG .
-
-ns1:Mongolia a ns1:LOC .
-
-ns1:Montana a ns1:LOC .
-
-ns1:Montpellier a ns1:ORG .
-
-ns1:Montreal a ns1:ORG .
-
-ns1:Montrose a ns1:ORG .
-
-ns1:Moody a ns1:ORG .
-
-ns1:Moody_10-1-25-2 a ns1:ORG .
-
-ns1:Moroccan a ns1:MISC .
-
-ns1:Morris a ns1:PER .
+ns1:Moose_Jaw a ns1:LOC .
 
 ns1:Moscow a ns1:LOC .
 
-ns1:Moscow_Newsroom a ns1:ORG .
+ns1:Mouat a ns1:PER .
 
-ns1:Moslem a ns1:MISC .
+ns1:Muller_%26_De_Bruyne a ns1:ORG .
 
-ns1:Moslems a ns1:MISC .
+ns1:NHL a ns1:ORG .
 
-ns1:Motherwell a ns1:ORG .
+ns1:Nana a ns1:LOC .
 
-ns1:Motorsport_Traditions_Ltd_and_Creative_Marketing_%26_Promotions_Inc a ns1:ORG .
+ns1:Nathan_Wood a ns1:PER .
 
-ns1:Mubarak a ns1:PER .
+ns1:National a ns1:ORG .
 
-ns1:Muenchener_Rueckversicherungs_AG a ns1:ORG .
+ns1:National_Hockey_League a ns1:ORG .
 
-ns1:Munich a ns1:LOC .
-
-ns1:Mushtaq_Ahmad a ns1:PER .
-
-ns1:Myos_Yang a ns1:PER .
-
-ns1:N.J._1996-12-06 a ns1:LOC .
-
-ns1:N.M._1996-12-05 a ns1:PER .
-
-ns1:N._Astle a ns1:PER .
-
-ns1:N._McLean a ns1:PER .
-
-ns1:NAC_Breda a ns1:ORG .
-
-ns1:NAIROBI_1996-12-06 a ns1:LOC .
-
-ns1:NATIONAL_FOOTBALL_CONFERENCE a ns1:MISC .
-
-ns1:NATO a ns1:ORG .
-
-ns1:NATO_enlargement a ns1:ORG .
-
-ns1:NBA a ns1:ORG .
-
-ns1:NCAA_AMERICAN a ns1:PER .
-
-ns1:NEC_Nijmegen a ns1:ORG .
-
-ns1:NEW a ns1:LOC .
-
-ns1:NEW_DELHI_1996-12-06 a ns1:LOC .
-
-ns1:NEW_JERSEY a ns1:LOC .
-
-ns1:NEW_ORLEANS a ns1:LOC .
-
-ns1:NEW_YORK a ns1:LOC .
-
-ns1:NEW_YORK_1996-12-05 a ns1:LOC .
-
-ns1:NEW_YORK_1996-12-06 a ns1:LOC .
-
-ns1:NEW_YORK_1996-12-07 a ns1:LOC .
-
-ns1:NEW_ZEALAND a ns1:LOC .
-
-ns1:NFC_East a ns1:LOC .
-
-ns1:NFL_AMERICAN a ns1:PER .
-
-ns1:NFL_AMERICAN_FOOTBALL-THURSDAY_%27S a ns1:ORG .
-
-ns1:NORDIC_SKIING-WORLD_CUP a ns1:MISC .
-
-ns1:NORTHEAST_DIVISION a ns1:MISC .
-
-ns1:NYC_Jan a ns1:PER .
-
-ns1:NY_GIANTS a ns1:PER .
-
-ns1:NY_ISLANDERS a ns1:PER .
-
-ns1:NY_JETS a ns1:PER .
-
-ns1:NY_RANGERS a ns1:PER .
-
-ns1:NZ a ns1:LOC .
-
-ns1:Nabil_Abu_Rdainah a ns1:PER .
-
-ns1:Nader_Jokhadar a ns1:PER .
-
-ns1:Nadim_Ladki a ns1:PER .
-
-ns1:Nairobi a ns1:LOC .
-
-ns1:Name a ns1:MISC .
-
-ns1:Namibia a ns1:LOC .
-
-ns1:Nancy a ns1:ORG .
-
-ns1:Nantes a ns1:ORG .
-
-ns1:Napoli a ns1:ORG .
-
-ns1:Nation_%27s_Cup a ns1:MISC .
-
-ns1:National_Air_Traffic_Services_Ltd a ns1:ORG .
-
-ns1:National_Animal_Control_Association a ns1:ORG .
-
-ns1:National_Basketball a ns1:ORG .
-
-ns1:National_Bucharest a ns1:ORG .
-
-ns1:National_Football a ns1:ORG .
-
-ns1:National_Football_League a ns1:ORG .
-
-ns1:National_Hockey a ns1:ORG .
-
-ns1:National_Hockey_League a ns1:MISC .
-
-ns1:National_League_for_Democracy a ns1:ORG .
-
-ns1:National_University a ns1:ORG .
-
-ns1:National_Weather_Service a ns1:ORG .
-
-ns1:National_and_Labour a ns1:ORG .
-
-ns1:Nazi a ns1:MISC .
-
-ns1:Nebraska a ns1:LOC .
-
-ns1:Neil_Back a ns1:PER .
-
-ns1:Nelson_Mandela a ns1:PER .
-
-ns1:Nestor_Sensini a ns1:PER .
-
-ns1:Netanyahu a ns1:PER .
-
-ns1:Netherlands a ns1:LOC .
-
-ns1:Netherlands_1996-12-06 a ns1:LOC .
-
-ns1:New a ns1:LOC .
-
-ns1:New_Jersey a ns1:LOC .
-
-ns1:New_Mexico a ns1:LOC .
-
-ns1:New_Mexico_Activities_Association a ns1:ORG .
-
-ns1:New_South_Wales_Supreme_Court a ns1:ORG .
-
-ns1:New_York a ns1:LOC .
-
-ns1:New_York_103_MIAMI_85 a ns1:ORG .
-
-ns1:New_York_City a ns1:LOC .
-
-ns1:New_York_Commodities_Desk a ns1:ORG .
-
-ns1:New_York_Power_Desk_%2B212-859-1628 a ns1:ORG .
-
-ns1:New_York_Stock_Exchange a ns1:ORG .
-
-ns1:New_Zealand a ns1:LOC .
-
-ns1:New_Zealand_231 a ns1:LOC .
+ns1:New_York_Islanders a ns1:ORG .
 
 ns1:Newcastle a ns1:ORG .
 
-ns1:Newfoundland_1996-12-06 a ns1:PER .
+ns1:Neymar a ns1:ORG .
 
-ns1:Nice a ns1:ORG .
+ns1:Nicolas_Jackson a ns1:PER .
 
-ns1:Nicholas_Burns a ns1:PER .
+ns1:Noni_Madueke a ns1:PER .
 
-ns1:Nick_Farr-Jones a ns1:PER .
+ns1:Norris a ns1:PER .
 
-ns1:Nick_Popplewell a ns1:PER .
+ns1:Nottingham_Forest a ns1:LOC .
 
-ns1:Nick_Price a ns1:PER .
+ns1:Novak_Djokovic a ns1:PER .
 
-ns1:Nigel_Walker a ns1:PER .
-
-ns1:Nigeria a ns1:LOC .
-
-ns1:Nippon_Telegraph_and_Telephone_Corp a ns1:ORG .
-
-ns1:Nobel_Peace_Prize a ns1:MISC .
-
-ns1:North a ns1:LOC .
-
-ns1:North_America a ns1:LOC .
-
-ns1:North_West a ns1:LOC .
-
-ns1:Northampton a ns1:ORG .
-
-ns1:Northern_Ireland a ns1:LOC .
-
-ns1:Northern_League a ns1:ORG .
-
-ns1:Norway a ns1:LOC .
-
-ns1:Norway_746 a ns1:LOC .
-
-ns1:Norwegian a ns1:MISC .
-
-ns1:Norwich a ns1:ORG .
-
-ns1:Nottingham_Forest a ns1:ORG .
-
-ns1:Notts_County a ns1:ORG .
-
-ns1:Nov_97_68.00_68.05_63.98_65.43-70.16 a ns1:ORG .
-
-ns1:OAKLAND a ns1:ORG .
-
-ns1:OMAHA_1996-12-06 a ns1:PER .
-
-ns1:OPEC_basket a ns1:PER .
-
-ns1:OTTAWA a ns1:LOC .
-
-ns1:O_Globo a ns1:ORG .
-
-ns1:Oats a ns1:ORG .
-
-ns1:Oats_286.5_284.6_31.9_937.3_581.2 a ns1:ORG .
-
-ns1:Oats_40.0_561.0_391.9_4.8_149.6_115.0 a ns1:ORG .
-
-ns1:Oats_Rye_Flaxseed_Canola_Corn a ns1:ORG .
-
-ns1:Oceano_Cruz a ns1:PER .
-
-ns1:Oct_97_68.00_68.05_63.98_65.43-70.16 a ns1:ORG .
-
-ns1:Ohio a ns1:LOC .
-
-ns1:Okazaki_Tomomi a ns1:PER .
-
-ns1:Oksana_Ravllova a ns1:PER .
-
-ns1:Oldham a ns1:ORG .
-
-ns1:Oleg_Shatskiku a ns1:PER .
-
-ns1:Olga_Melnik a ns1:PER .
-
-ns1:Oliver_Bierhoff a ns1:PER .
-
-ns1:Olympiakos a ns1:ORG .
+ns1:Old_Trafford a ns1:LOC .
 
 ns1:Olympic a ns1:MISC .
 
-ns1:Olympics a ns1:MISC .
+ns1:Open a ns1:MISC .
 
-ns1:One ns1:close ns1:authorities .
+ns1:Oscar_Piastri a ns1:PER .
 
-ns1:Ong_Ewe_Hock a ns1:PER .
+ns1:Ottawa_Scotland a ns1:LOC .
 
-ns1:Organisation a ns1:ORG .
+ns1:Oude_Kwaremont a ns1:ORG .
 
-ns1:Oscar_Luigi a ns1:PER .
+ns1:Oudenaarde a ns1:LOC .
 
-ns1:Oscar_Scalfaro a ns1:PER .
+ns1:Ovechkin a ns1:LOC,
+        ns1:MISC,
+        ns1:ORG,
+        ns1:PER .
 
-ns1:Oslo a ns1:LOC .
+ns1:PGA_Championship a ns1:ORG .
 
-ns1:Otelul_Galati a ns1:ORG .
+ns1:PSG a ns1:ORG .
 
-ns1:Ottawa a ns1:LOC .
-
-ns1:Outagmie_County_Circuit_Court a ns1:ORG .
-
-ns1:Owen_Finegan a ns1:PER .
-
-ns1:Oxford a ns1:ORG .
-
-ns1:P._Reiffel a ns1:PER .
-
-ns1:PACIFIC_DIVISION a ns1:MISC .
-
-ns1:PAKISTAN a ns1:LOC .
-
-ns1:PARIS_1996-12-06 a ns1:LOC .
-
-ns1:PF_PA a ns1:PER .
-
-ns1:PHILADELPHIA a ns1:ORG .
-
-ns1:PHOENIX a ns1:LOC .
-
-ns1:PITTSBURGH a ns1:ORG .
-
-ns1:PKK a ns1:ORG .
-
-ns1:PLAYOFF_BERTH a ns1:PER .
-
-ns1:PLO a ns1:ORG .
-
-ns1:PLO_negotiators a ns1:ORG .
-
-ns1:POLAND a ns1:LOC .
-
-ns1:PORTLAND_97_Charlotte_93 a ns1:ORG .
-
-ns1:PORT_LOUIS_1996-12-06 a ns1:ORG .
-
-ns1:PRAGUE_1996-12-06 a ns1:LOC .
-
-ns1:PSV a ns1:ORG .
-
-ns1:PSV_Eindhoven a ns1:ORG .
-
-ns1:PSV_Eindhoven_romped a ns1:ORG .
-
-ns1:PT a ns1:ORG .
-
-ns1:PT_Panutan_Duta a ns1:ORG .
-
-ns1:PT_Tambang_Timah a ns1:ORG .
-
-ns1:Pacific_Coast a ns1:ORG .
-
-ns1:PaineWebber_Incorporated a ns1:PER .
-
-ns1:Pakistan a ns1:LOC .
-
-ns1:Pakistan_1996-12-06 a ns1:LOC .
-
-ns1:Palestine_Liberation_Organisation a ns1:ORG .
-
-ns1:Palestinian a ns1:MISC .
-
-ns1:Palestinian_Authority a ns1:ORG .
-
-ns1:Palestinians a ns1:MISC .
-
-ns1:Papua_New_Guinea a ns1:LOC .
+ns1:Palmer a ns1:ORG,
+        ns1:PER .
 
 ns1:Paris a ns1:LOC .
 
-ns1:Paris_Saint-Germain a ns1:ORG .
+ns1:Patrick_Reed a ns1:PER .
 
-ns1:Paris_St_Germain a ns1:ORG .
+ns1:Pauline_Ferrand a ns1:PER .
 
-ns1:Parma a ns1:ORG .
+ns1:Pedersen a ns1:PER .
 
-ns1:Partick a ns1:ORG .
+ns1:Pedro_Neto a ns1:PER .
 
-ns1:Partizan a ns1:ORG .
+ns1:Pep_Guardiola a ns1:PER .
 
-ns1:Partizan_Belgrade a ns1:ORG .
+ns1:Phil a ns1:PER .
 
-ns1:Pat_Howard a ns1:PER .
+ns1:Phil_Foden a ns1:PER .
 
-ns1:Pat_Hurst a ns1:PER .
+ns1:Phil_Mickelson a ns1:PER .
 
-ns1:Patrick_Vieira a ns1:PER .
+ns1:Phil_Parsons a ns1:PER .
 
-ns1:Paul_Crofts a ns1:PER .
+ns1:Phinney a ns1:ORG .
 
-ns1:Paul_Fischer a ns1:PER .
+ns1:Piastri a ns1:LOC,
+        ns1:ORG .
 
-ns1:Paul_Gascoigne a ns1:PER .
-
-ns1:Paul_Justin a ns1:PER .
-
-ns1:Paul_Keating a ns1:PER .
-
-ns1:Paul_Reiffel a ns1:PER .
-
-ns1:Paul_Wright a ns1:PER .
-
-ns1:Paulinho_Santos a ns1:PER .
-
-ns1:Paulo_Alves a ns1:PER .
-
-ns1:Paulo_Bento a ns1:PER .
-
-ns1:Pen_Select a ns1:PER .
-
-ns1:Peres a ns1:PER .
-
-ns1:Pernilla_Wiberg a ns1:PER .
-
-ns1:Peter_Beardsley a ns1:PER .
-
-ns1:Peter_Nicol a ns1:PER .
-
-ns1:Peter_van a ns1:PER .
-
-ns1:Peterborough a ns1:ORG .
-
-ns1:Petra_Behle a ns1:PER .
-
-ns1:Phil_Gray a ns1:PER .
-
-ns1:Philadelphia a ns1:ORG .
-
-ns1:Philadelphia_Eagles_37-10 a ns1:ORG .
-
-ns1:Phoenix_101_SACRAMENTO_95 a ns1:MISC .
-
-ns1:Piacenza a ns1:ORG .
-
-ns1:Pierre_Laigle a ns1:PER .
-
-ns1:Pierre_Lueders a ns1:PER .
-
-ns1:Pierre_Van a ns1:PER .
-
-ns1:Pilkington_Cup a ns1:MISC .
-
-ns1:Pittsburgh a ns1:ORG .
-
-ns1:Placer_Dome_Inc a ns1:ORG .
-
-ns1:Play_restarted a ns1:PER .
-
-ns1:Plymouth a ns1:ORG .
+ns1:Pogacar a ns1:PER .
 
 ns1:Poland a ns1:LOC .
 
-ns1:Polish a ns1:MISC .
+ns1:Premier_League a ns1:MISC .
 
-ns1:Popescu a ns1:ORG .
+ns1:Prevot a ns1:ORG .
 
-ns1:Port_Loading_Waiting a ns1:ORG .
+ns1:QPR a ns1:ORG .
 
-ns1:Port_Office a ns1:ORG .
+ns1:Raducanu a ns1:PER .
 
-ns1:Port_Vale a ns1:ORG .
+ns1:Rams a ns1:PER .
 
-ns1:Porto a ns1:ORG .
+ns1:Ramsdale a ns1:ORG .
 
-ns1:Porto_central a ns1:ORG .
+ns1:Red_Bull a ns1:LOC,
+        ns1:ORG,
+        ns1:PER .
 
-ns1:Portsmouth a ns1:LOC,
-        ns1:ORG .
+ns1:Reds a ns1:ORG .
 
-ns1:Portugal a ns1:LOC .
+ns1:Review a ns1:PER .
 
-ns1:Portuguesa a ns1:ORG .
+ns1:Review_Andrew_Benson a ns1:PER .
 
-ns1:Portuguese a ns1:MISC .
+ns1:Ronnie_Edwards a ns1:PER .
 
-ns1:Prague a ns1:LOC .
+ns1:Rotterdam a ns1:LOC .
 
-ns1:Prague_Newsroom_42-2-2423-0003 a ns1:ORG .
+ns1:Roubaix a ns1:PER .
 
-ns1:Preston a ns1:ORG .
+ns1:Rus a ns1:PER .
 
-ns1:Prince_Rupert a ns1:LOC .
+ns1:Russell a ns1:PER .
 
-<http://example.org/Princess_of_Loine_19/11/96_10%2C000_Philippines> a ns1:ORG .
-
-ns1:Pro-European_Conservative a ns1:PER .
-
-ns1:Provisional a ns1:ORG .
-
-ns1:Prudential_Securities_Incorporated a ns1:ORG .
-
-ns1:Public_Service a ns1:ORG .
-
-ns1:Queen_%27s_Park a ns1:ORG .
-
-ns1:Queen_of_South a ns1:ORG .
-
-ns1:Queens_Park_Rangers a ns1:ORG .
-
-ns1:R._Kennedy a ns1:PER .
-
-ns1:R._Ponting a ns1:PER .
-
-ns1:R._Samuels a ns1:PER .
-
-ns1:RADIO_ROMANIA a ns1:PER .
-
-ns1:RANGOON_1996-12-06 a ns1:PER .
-
-ns1:RANGOON_1996-12-07 a ns1:PER .
-
-ns1:RED_SEA a ns1:LOC .
-
-ns1:REUTER a ns1:PER .
-
-ns1:RIO_DE_JANEIRO_1996-12-05 a ns1:LOC .
-
-ns1:RIO_DE_JANEIRO_1996-12-06 a ns1:LOC .
-
-ns1:RKC_Waalwijk a ns1:ORG .
-
-ns1:ROME_1996-12-06 a ns1:LOC .
-
-ns1:RTRS a ns1:ORG .
-
-ns1:RUGBY_UNION a ns1:ORG .
-
-ns1:Racing_Santander a ns1:ORG .
-
-ns1:Rafael_Alkorta a ns1:PER .
-
-ns1:Raith a ns1:ORG .
-
-ns1:Ramon_Vega a ns1:PER .
-
-ns1:Ramos_Horta a ns1:PER .
-
-ns1:Ramthan_Hussain a ns1:PER .
-
-ns1:Randy_Jones a ns1:PER .
-
-ns1:Rangers a ns1:ORG .
-
-ns1:Rangoon a ns1:LOC .
-
-ns1:Rangoon_University a ns1:ORG .
-
-ns1:Raphael_Kopessoua a ns1:PER .
-
-ns1:Rapid_Vienna a ns1:ORG .
-
-ns1:Rashid ns1:sentence ns1:court .
-
-ns1:Ray_Buchanan a ns1:PER .
-
-ns1:Rayo_Vallecano a ns1:PER .
-
-ns1:Reading a ns1:ORG .
-
-ns1:Real_Betis a ns1:ORG .
-
-ns1:Real_Madrid a ns1:ORG .
-
-ns1:Real_Madrid_Barcelona a ns1:ORG .
-
-ns1:Real_Madrid_Real_Madrid a ns1:ORG .
-
-ns1:Real_Sociedad a ns1:ORG .
-
-ns1:Receipts_Shipments a ns1:PER .
-
-ns1:Red_Cross a ns1:ORG .
-
-ns1:Red_Sea a ns1:LOC .
-
-ns1:Reiffel_10-2-26-0 a ns1:PER .
-
-ns1:Renate_Goetschl a ns1:PER .
-
-ns1:Rennes a ns1:ORG .
-
-ns1:Republic a ns1:LOC .
-
-ns1:Republic_of_Ireland a ns1:LOC .
-
-ns1:Republican a ns1:MISC .
-
-ns1:Resistance a ns1:ORG .
-
-ns1:Restoration_Council a ns1:ORG .
-
-ns1:Richard_Eglin a ns1:PER .
-
-ns1:Ricky_Ponting a ns1:PER .
-
-ns1:Ricky_Watters a ns1:PER .
-
-ns1:Riga_Newsroom a ns1:ORG .
-
-ns1:Rio_de_Janeiro a ns1:LOC .
-
-ns1:Robbie_Earle a ns1:PER .
-
-ns1:Robbie_Fowler a ns1:PER .
-
-ns1:Robert a ns1:PER .
-
-ns1:Robert_Galvin a ns1:PER .
-
-ns1:Robert_Kitson a ns1:PER .
-
-ns1:Robert_Mugabe a ns1:PER .
-
-ns1:Robert_Samuels a ns1:PER .
-
-ns1:Roberto_Ayala a ns1:PER .
-
-ns1:Roberto_Baggio a ns1:PER .
-
-ns1:Roberto_Carlos a ns1:PER .
-
-ns1:Roberto_Mancini a ns1:PER .
-
-ns1:Rochdale a ns1:ORG .
-
-ns1:Roda_JC_Kerkrade a ns1:ORG .
-
-ns1:Rodney_Eyles a ns1:PER .
-
-ns1:Roger_Atwood a ns1:PER .
-
-ns1:Roger_Garcia a ns1:PER .
-
-ns1:Roma a ns1:ORG .
-
-ns1:Roman a ns1:MISC .
-
-ns1:Roman_Catholic a ns1:MISC .
-
-ns1:Romania a ns1:LOC .
-
-ns1:Rome a ns1:LOC .
-
-ns1:Ronaldo a ns1:PER .
-
-ns1:Ronny_Wabia a ns1:PER .
-
-ns1:Rosati a ns1:PER .
-
-ns1:Rosemary_Bennett a ns1:PER .
-
-ns1:Ross_89 a ns1:PER .
-
-ns1:Ross_County a ns1:ORG .
-
-ns1:Rotherham a ns1:ORG .
-
-ns1:Royal_Clipper a ns1:ORG .
-
-ns1:Rubber_Board a ns1:ORG .
-
-ns1:Rubber_Board_of_India a ns1:ORG .
-
-ns1:Rubin a ns1:PER .
-
-ns1:Rudi_Vata a ns1:PER .
-
-ns1:Rui_Barros a ns1:PER .
-
-ns1:Rui_Correia a ns1:PER .
-
-ns1:Rui_Costa a ns1:PER .
-
-ns1:Russ_Berrie a ns1:PER .
-
-ns1:Russ_Berrie_and_Co_Inc a ns1:ORG .
+ns1:Russell_Martin a ns1:PER .
 
 ns1:Russia a ns1:LOC .
 
-ns1:Russia_288 a ns1:LOC .
-
 ns1:Russian a ns1:MISC .
 
-ns1:Russian_Weather_Service a ns1:ORG .
+ns1:Russian_Olympic_Committee a ns1:MISC .
 
 ns1:Rwanda a ns1:LOC .
 
-ns1:Rwandan a ns1:MISC .
+ns1:Ryan_Fraser a ns1:PER .
 
-ns1:Ryan_Johnson a ns1:PER .
+ns1:SA%29%3B-4S_Garcia a ns1:ORG .
 
-ns1:Rye_4.1_60.7_57.9_3.0_10.7_18.9 a ns1:ORG .
+ns1:SD_Worx a ns1:PER .
 
-ns1:Rye_44.6_86.3_2.3_108.2_119.2 a ns1:ORG .
+ns1:Saints_Why_Aston_Villa a ns1:ORG .
 
-ns1:S%26P a ns1:ORG .
+ns1:Salah a ns1:MISC,
+        ns1:PER .
 
-ns1:S._Campbell a ns1:PER .
+ns1:San_Remo a ns1:LOC .
 
-ns1:S._Chanderpaul a ns1:PER .
-
-ns1:S._Doull a ns1:PER .
-
-ns1:S._Fleming a ns1:PER .
-
-ns1:S._Law a ns1:PER .
-
-ns1:S._Warne a ns1:PER .
-
-ns1:SAN a ns1:LOC .
-
-ns1:SANTIAGO_1996-12-05 a ns1:PER .
-
-ns1:SAN_ANTONIO a ns1:LOC .
-
-ns1:SAN_ANTONIO_89 a ns1:ORG .
-
-ns1:SAN_DIEGO a ns1:ORG .
-
-ns1:SAN_FRANCISCO a ns1:LOC,
-        ns1:ORG .
-
-ns1:SAN_JOSE a ns1:LOC .
-
-ns1:SCOTTISH a ns1:MISC .
-
-ns1:SCOTTISH_LEAGUE a ns1:MISC .
-
-ns1:SCOTTISH_LEAGUE_AND_CUP a ns1:MISC .
-
-ns1:SC_Freiburg a ns1:ORG .
-
-ns1:SEATTLE a ns1:LOC,
-        ns1:ORG .
-
-ns1:SEOUL_1996-12-06 a ns1:LOC .
-
-ns1:SHANGHAI_1996-12-06 a ns1:LOC .
-
-ns1:SHEFFIELD a ns1:LOC .
-
-ns1:SINGAPORE_1996-12-06 a ns1:LOC .
-
-ns1:SKIING-CHINESE_MAKE a ns1:PER .
-
-ns1:SOFIA_1996-12-06 a ns1:LOC .
-
-ns1:ST._LOUIS_1996-12-06 a ns1:ORG .
-
-ns1:STEEL_OUTPUT a ns1:PER .
-
-ns1:ST_LOUIS a ns1:ORG .
-
-ns1:SV_1860_Munich a ns1:ORG .
-
-ns1:SWISS a ns1:MISC .
-
-ns1:SYDNEY_1996-12-06 a ns1:LOC .
-
-ns1:Saeed_Anwar a ns1:PER .
-
-ns1:Saint_Nicholas a ns1:PER .
-
-ns1:Saitoh_121 a ns1:PER .
-
-ns1:Salamanca a ns1:LOC .
-
-ns1:Sali_Berisha a ns1:PER .
-
-ns1:Salim_Malik a ns1:PER .
-
-ns1:Salomon a ns1:ORG .
-
-ns1:Salomon_Brothers a ns1:ORG .
-
-ns1:Salvador a ns1:LOC .
-
-ns1:Sam_Payne a ns1:PER .
-
-ns1:Same_Period a ns1:PER .
-
-ns1:Sammy_Daniels a ns1:PER .
-
-ns1:Sampdoria a ns1:ORG .
-
-ns1:San a ns1:LOC .
-
-ns1:San_Francisco a ns1:LOC .
-
-ns1:Sangetsu_Co_Ltd a ns1:ORG .
-
-ns1:Sangthai_Glory a ns1:PER .
-
-ns1:Santa a ns1:LOC .
-
-ns1:Santa_Fe_Pacific_Gold_Corp_if_Santa_Fe_rejects_unsolicited_suitor_Newmont_Mining_Corp a ns1:ORG .
-
-ns1:Santiago_Bernabeu a ns1:LOC .
-
-ns1:Saqlain_Mushtaq a ns1:PER .
-
-ns1:Saturday%27sWorld_Cup a ns1:MISC .
-
-ns1:Saudi_Arabia a ns1:LOC .
-
-ns1:Scarborough a ns1:ORG .
-
-ns1:Schalk_van_der a ns1:PER .
-
-ns1:Schalk_van_der_Merwe a ns1:PER .
-
-ns1:Schalke a ns1:ORG .
-
-ns1:Schalke_04 a ns1:ORG .
+ns1:Schwartzel a ns1:ORG .
 
 ns1:Scotland a ns1:LOC .
 
-ns1:Scott_McCarron a ns1:PER .
-
-ns1:Scott_Quinnell a ns1:PER .
+ns1:Scots a ns1:ORG .
 
 ns1:Scottish a ns1:MISC .
 
-ns1:Scottish_Cup a ns1:MISC .
+ns1:Sebastian_Vettel a ns1:ORG .
 
-ns1:Scunthorpe a ns1:ORG .
+ns1:Selected%3A%2B1J_Rahm a ns1:PER .
 
-ns1:Seagramd_ace a ns1:PER .
+ns1:Serbia a ns1:LOC .
 
-ns1:Sean_Farrell a ns1:PER .
-
-ns1:Sean_Olsson a ns1:PER .
-
-ns1:Sebastien_Foucras a ns1:PER .
-
-ns1:Security_Council a ns1:ORG .
-
-ns1:Senate a ns1:ORG .
-
-ns1:Senate_Banking_Committee a ns1:ORG .
-
-ns1:Senegal a ns1:LOC .
-
-ns1:Sep_97_69.18_69.24_65.17_66.61-71.34 a ns1:ORG .
-
-ns1:Sergey_Klevchenya a ns1:PER .
-
-ns1:Sergi_Barjuan a ns1:PER .
-
-ns1:Sergio_Conceicao a ns1:PER .
-
-ns1:Shahid_Afridi a ns1:PER .
-
-ns1:Shane_Warne a ns1:PER .
-
-ns1:Shaun_Young a ns1:PER .
-
-ns1:Sheffield a ns1:ORG .
-
-ns1:Sheffield_Shield a ns1:ORG .
+ns1:Sergio_Garcia a ns1:PER .
 
 ns1:Sheffield_United a ns1:ORG .
 
-ns1:Sherwin_Campbell a ns1:PER .
+ns1:Shirts a ns1:PER .
 
-ns1:Shimazaki_Kyoko a ns1:PER .
+ns1:Silva a ns1:PER .
 
-ns1:Shimizu_Hiroyasu a ns1:PER .
+ns1:Silverstone a ns1:PER .
 
-ns1:Shimon_Peres a ns1:PER .
+ns1:Simon_Rusk a ns1:PER .
 
-ns1:Shrewsbury a ns1:ORG .
+ns1:Sinner a ns1:PER .
 
-ns1:Simon_Parke a ns1:PER .
+ns1:Sky_Sports a ns1:ORG .
 
-ns1:Simona_de_Logu a ns1:ORG .
+ns1:Slot a ns1:PER .
 
-ns1:Singapore a ns1:LOC .
+ns1:Slovenian a ns1:MISC .
 
-ns1:Singapore_Newsroom a ns1:ORG .
-
-ns1:Slaughter_Heifers a ns1:PER .
-
-ns1:Slaughter_Steers a ns1:PER .
-
-ns1:Slaughter_steers a ns1:PER .
-
-ns1:Slovak a ns1:MISC .
-
-ns1:Slovakia a ns1:LOC .
-
-ns1:Slovenia a ns1:LOC .
-
-ns1:Slovenia_432 a ns1:LOC .
-
-ns1:Social_Democratic_Union a ns1:ORG .
-
-ns1:South_Africa a ns1:LOC .
-
-ns1:South_Africa_1996-12-06 a ns1:LOC .
-
-ns1:South_African a ns1:MISC .
-
-ns1:South_America a ns1:LOC .
-
-ns1:South_Korea a ns1:LOC .
-
-ns1:South_Korea_1996-12-07 a ns1:LOC .
-
-ns1:South_Korean a ns1:MISC .
-
-ns1:South_Lebanon_Army a ns1:ORG .
+ns1:South_African_Schwartzel a ns1:MISC .
 
 ns1:Southampton a ns1:ORG .
 
-ns1:Southend a ns1:ORG .
+ns1:Spaniard a ns1:MISC .
 
-ns1:Soviet a ns1:MISC .
+ns1:Spirit_of_Cricket a ns1:ORG .
 
-ns1:Soviet-led_Warsaw_Pact a ns1:ORG .
+ns1:Spurs a ns1:MISC .
 
-ns1:Soviet_Union a ns1:LOC .
+ns1:St_Mary a ns1:ORG .
 
-ns1:Soybeans a ns1:ORG .
+ns1:Stamford_Bridge a ns1:LOC .
 
-ns1:Spain a ns1:LOC .
+ns1:Stan_Wawrinka a ns1:PER .
 
-ns1:Spanish a ns1:MISC .
+ns1:Stanley_Cup a ns1:MISC .
 
-ns1:Sparta_Rotterdam a ns1:ORG .
-
-ns1:Spetses_139 a ns1:PER .
-
-ns1:Split a ns1:LOC .
-
-ns1:Sporting a ns1:ORG .
-
-ns1:Sporting_Gijon a ns1:ORG .
-
-ns1:St._Louis_21%2C346 a ns1:ORG .
-
-ns1:St._Louis_217%2C092_75%2C810 a ns1:ORG .
-
-ns1:St._Louis_253%2C821_223%2C172 a ns1:ORG .
-
-ns1:St._Louis_Merchants_Exchange a ns1:ORG .
-
-ns1:St_Albans a ns1:ORG .
-
-ns1:St_Johnstone a ns1:ORG .
-
-ns1:St_Louis a ns1:ORG .
-
-ns1:St_Mirren a ns1:ORG .
-
-ns1:St_Pius a ns1:ORG .
-
-ns1:Standings_of_National a ns1:ORG .
-
-ns1:State_Council a ns1:ORG .
-
-ns1:State_Department a ns1:ORG .
-
-ns1:State_Street_Bank_and_Trust_Company a ns1:ORG .
-
-ns1:Stefanel_Milan a ns1:ORG .
-
-ns1:Stefano_Bordon a ns1:PER .
-
-ns1:Stenhousemuir a ns1:ORG .
-
-ns1:Stephen_Cito a ns1:PER .
-
-ns1:Stephen_Nisbet a ns1:PER .
-
-ns1:Steve_McManaman a ns1:PER .
-
-ns1:Steve_Waltman a ns1:PER .
-
-ns1:Steve_van a ns1:PER .
-
-ns1:Steven_Silber a ns1:PER .
-
-ns1:Steven_Waltman a ns1:PER .
-
-ns1:Stirling a ns1:ORG .
-
-ns1:Stockport a ns1:ORG .
-
-ns1:Stoke a ns1:ORG .
-
-ns1:Stomach_tucks a ns1:PER .
-
-ns1:Stranraer a ns1:ORG .
-
-ns1:Strasbourg a ns1:ORG .
-
-ns1:Stuart_Law a ns1:PER .
-
-ns1:Sudan a ns1:LOC .
-
-ns1:Sudbury_Town a ns1:LOC .
-
-ns1:Sumitomo_Bank a ns1:ORG .
+ns1:Stella a ns1:PER .
 
 ns1:Sunderland a ns1:ORG .
 
-ns1:Super a ns1:ORG .
-
-ns1:Supreme_Court a ns1:ORG .
-
-ns1:Surgeon_Renat a ns1:PER .
-
-ns1:Surgery_Society a ns1:ORG .
-
-ns1:Susi_Susanti a ns1:PER .
-
-ns1:Suu_Kyi a ns1:PER .
-
-ns1:Sven_Fischer a ns1:PER .
-
-ns1:Svetlana_Gladishiva a ns1:PER .
-
-ns1:Svetlana_Jhurova a ns1:PER .
-
-ns1:Svetlana_Paramygina a ns1:PER .
-
-ns1:Swansea a ns1:ORG .
-
-ns1:Swede a ns1:MISC .
+ns1:Suzuka a ns1:LOC,
+        ns1:PER .
 
 ns1:Sweden a ns1:LOC .
-
-ns1:Sweden_1996-12-07 a ns1:LOC .
-
-ns1:Sweden_673 a ns1:LOC .
-
-ns1:Swindon a ns1:ORG .
 
 ns1:Swiss a ns1:MISC .
 
 ns1:Switzerland a ns1:LOC .
 
-ns1:Switzerland_972 a ns1:LOC .
+ns1:Tadej_Pogacar a ns1:ORG,
+        ns1:PER .
 
-ns1:Sydney a ns1:LOC .
+ns1:Taylor a ns1:PER .
 
-ns1:Sydney_Cricket_Ground a ns1:ORG .
+ns1:Taylor_Harwood a ns1:PER .
 
-ns1:Sydney_Newsroom a ns1:ORG .
+ns1:Team_Scotland a ns1:LOC .
 
-ns1:Sylvain_Bouchard a ns1:PER .
+ns1:Tearful_Mullins a ns1:MISC .
 
-ns1:Syria a ns1:LOC .
+ns1:Texas_Open a ns1:MISC .
 
-ns1:Syrian a ns1:MISC .
+ns1:Todd_Boehly a ns1:PER .
 
-ns1:Syrians a ns1:MISC .
+ns1:Tottenham a ns1:ORG,
+        ns1:PER .
 
-ns1:T._Moody a ns1:PER .
+ns1:Tour_de_France a ns1:MISC .
 
-ns1:TALLINN_1996-12-06 a ns1:LOC .
+ns1:Tour_of_Flanders a ns1:MISC .
 
-ns1:TAMPA_BAY a ns1:PER .
+ns1:Tour_of_Lombardy a ns1:MISC .
 
-ns1:TARPON_SPRINGS a ns1:PER .
+ns1:Tractor_Boys a ns1:ORG .
 
-ns1:TEMBAU_DENPASAR a ns1:PER .
+ns1:Trump a ns1:PER .
 
-ns1:TIRANA_1996-12-06 a ns1:LOC .
+ns1:Trump_National_Doral a ns1:ORG .
 
-ns1:TIRANA_1996-12-07 a ns1:LOC .
-
-ns1:TOKYO_1996-12-06 a ns1:LOC .
-
-ns1:TORONTO a ns1:LOC,
-        ns1:ORG .
-
-ns1:TWA a ns1:ORG .
-
-ns1:Taisuke_Tanaka a ns1:PER .
-
-ns1:Taiwan a ns1:LOC .
-
-ns1:Takao_Sakoh a ns1:PER .
-
-ns1:Takuya_Takagi a ns1:PER .
-
-ns1:Tallinna_Pank a ns1:ORG .
-
-ns1:Tambang_Timah a ns1:PER .
-
-ns1:Tampa_Bay a ns1:PER .
-
-ns1:Tan_Kong a ns1:LOC .
-
-ns1:Tasmania a ns1:LOC .
-
-ns1:Tass a ns1:ORG .
-
-ns1:Teamsystem_Bologna a ns1:PER .
-
-ns1:Texas a ns1:ORG .
-
-ns1:Thai a ns1:MISC .
-
-ns1:Thailand a ns1:LOC .
-
-ns1:The_Thai_Commerce_Ministry a ns1:ORG .
-
-ns1:Third-stringer_Kerwin_Bell a ns1:PER .
-
-ns1:Thomas_Lebsa a ns1:PER .
-
-ns1:Thomas_Stuer-Lauridsen a ns1:PER .
-
-ns1:Thompson a ns1:PER .
-
-ns1:Tim_Casey a ns1:PER .
-
-ns1:Tim_Gavin a ns1:PER .
-
-ns1:Tim_Horan a ns1:PER .
-
-ns1:Tim_Stimpson a ns1:PER .
-
-ns1:Tirana a ns1:LOC .
-
-ns1:Tokyo a ns1:LOC .
-
-ns1:Toledo_285%2C505_561%2C287 a ns1:ORG .
-
-ns1:Toledo_61%2C514 a ns1:PER .
-
-ns1:Toledo_64%2C334_160%2C476 a ns1:ORG .
-
-ns1:Tom_Moody a ns1:PER .
-
-<http://example.org/Tong_Shun_25/11/96_3%2C000_Vietnam> a ns1:ORG .
-
-ns1:Tony a ns1:PER .
-
-ns1:Tony_Adams a ns1:PER .
-
-ns1:Tony_Greig a ns1:PER .
-
-ns1:Tony_Marlow a ns1:PER .
-
-ns1:Tony_Siragusa a ns1:PER .
-
-ns1:Tony_Underwood a ns1:PER .
-
-ns1:Top-seeded_Eyles a ns1:PER .
-
-ns1:Toronto a ns1:ORG .
-
-ns1:Torquay a ns1:ORG .
-
-ns1:Tottenham a ns1:ORG .
-
-ns1:Tour a ns1:MISC .
-
-ns1:Toyo_Trust_%26_Banking_Co a ns1:ORG .
-
-ns1:Tranmere a ns1:ORG .
-
-ns1:Transportation_Ministry a ns1:ORG .
-
-ns1:Treasury a ns1:ORG .
-
-ns1:Troy_Benson a ns1:PER .
-
-ns1:Troy_Vincent a ns1:PER .
-
-ns1:Turkey a ns1:LOC .
-
-ns1:Turkey_1996-12-06 a ns1:LOC .
-
-ns1:Turkish a ns1:MISC .
-
-ns1:Tutsi a ns1:MISC .
-
-ns1:Twente_Enschede a ns1:ORG .
-
-<http://example.org/U.N.> a ns1:ORG .
-
-ns1:U.N._General_Assembly a ns1:ORG .
-
-ns1:U.N._charter a ns1:ORG .
-
-ns1:U.N._evacuates a ns1:ORG .
-
-ns1:U.S a ns1:LOC .
-
-<http://example.org/U.S.> a ns1:LOC .
-
-ns1:U.S.-based_MCI_Communications_Corporation a ns1:ORG .
-
-ns1:U.S._Court_of_Appeals a ns1:ORG .
-
-ns1:U.S._Municipal_Desk a ns1:ORG .
-
-ns1:U.S._Treasury a ns1:ORG .
+ns1:Tyrrell_Hatton a ns1:PER .
 
 ns1:UAE a ns1:LOC .
 
-ns1:UEFA_Cup a ns1:MISC .
-
-ns1:UEFA_Cups a ns1:ORG .
-
-ns1:UK a ns1:LOC .
-
-ns1:UK_Department_of_Transport a ns1:ORG .
-
-ns1:UNITED_NATIONS_1996-12-06 a ns1:ORG .
-
 ns1:US a ns1:LOC .
 
-ns1:US%24 a ns1:MISC .
+ns1:US%29%3B%2B8P_Casey a ns1:ORG .
 
-ns1:USA a ns1:LOC .
+ns1:US%29%3B-1P_Mickelson a ns1:PER .
 
-ns1:USDA a ns1:ORG .
+ns1:US_Open a ns1:MISC .
 
-ns1:Ukraine a ns1:LOC .
+ns1:United a ns1:LOC,
+        ns1:ORG .
 
-ns1:Ulker_Spor a ns1:PER .
+ns1:Van_der_Poel a ns1:PER .
 
-ns1:Umar_Said a ns1:PER .
+ns1:Verstappen a ns1:LOC,
+        ns1:PER .
 
-ns1:Umberto_Bossi a ns1:PER .
+ns1:Vettel a ns1:PER .
 
-ns1:Union_Bank a ns1:ORG .
+ns1:Vladimir_Putin a ns1:PER .
 
-ns1:United_Arab_Emirates a ns1:LOC .
+ns1:Washington_Capitals a ns1:LOC .
 
-ns1:United_Arab_Emirates_1996-12-06 a ns1:LOC .
+ns1:Wayne_Gretzky a ns1:PER .
 
-ns1:United_City_Bank a ns1:ORG .
-
-ns1:United_Nations a ns1:ORG .
-
-ns1:United_Province a ns1:ORG .
-
-ns1:United_States a ns1:LOC .
-
-ns1:Uruguay_Round_free a ns1:LOC .
-
-ns1:Utrecht a ns1:ORG .
-
-ns1:VANCOUVER a ns1:LOC .
-
-ns1:VIENNA_1996-12-06 a ns1:LOC .
-
-ns1:VIENNA_1996-12-07 a ns1:LOC .
-
-ns1:Vaclav_Havel a ns1:PER .
-
-ns1:Vaclav_Klaus a ns1:PER .
-
-ns1:Valencia a ns1:LOC .
-
-ns1:Van_Boxmeer a ns1:PER .
-
-ns1:Van_der a ns1:PER .
-
-ns1:Vancouver a ns1:LOC .
-
-ns1:Vatican a ns1:LOC .
-
-ns1:Venezuela a ns1:LOC .
-
-ns1:Verona a ns1:ORG .
-
-ns1:Veronica_Brenner a ns1:PER .
-
-ns1:Vessel_Date_of_Arrival_Quantity_Destination a ns1:ORG .
-
-ns1:VfB_Stuttgart a ns1:ORG .
-
-ns1:VfL_Bochum a ns1:ORG .
-
-ns1:Vicenza a ns1:ORG .
-
-ns1:Victoria a ns1:LOC .
-
-ns1:Viktor_Paco a ns1:PER .
-
-ns1:Villa a ns1:PER .
-
-ns1:Vince_Lombardi a ns1:PER .
-
-ns1:Virginia a ns1:LOC .
-
-ns1:Visible_Supplies_Farmers_Deliveries a ns1:ORG .
-
-ns1:Vitesse_Arnhem a ns1:ORG .
-
-ns1:Vithoon_Amorn a ns1:PER .
-
-ns1:Vitor_Baia a ns1:PER .
-
-ns1:Vladimir_Meciar a ns1:PER .
-
-ns1:Volendam a ns1:ORG .
-
-ns1:WARSAW_1996-12-06 a ns1:LOC .
-
-ns1:WASHINGTON a ns1:LOC .
-
-ns1:WASHINGTON_1996-12-05 a ns1:LOC .
-
-ns1:WASHINGTON_1996-12-06 a ns1:LOC .
-
-ns1:WELLINGTON_1996-12-06 a ns1:LOC .
-
-ns1:WESTERN_CONFERENCE a ns1:MISC .
-
-ns1:WESTERN_DIVISION a ns1:MISC .
-
-ns1:WESTERN_HEMISPHERE a ns1:LOC .
-
-ns1:WINNIPEG_1996-12-06 a ns1:LOC .
-
-ns1:WORLD_CUP a ns1:MISC .
-
-ns1:WORLD_CUP_SUPER a ns1:MISC .
-
-ns1:Wales a ns1:LOC .
-
-ns1:Wall_St_speculates a ns1:ORG .
-
-ns1:Wall_Street a ns1:LOC .
-
-ns1:Wall_Street_Desk a ns1:ORG .
-
-ns1:Walsall a ns1:ORG .
-
-ns1:Wang_Chen a ns1:PER .
-
-ns1:Waqar a ns1:PER .
-
-ns1:Waqar_Younis a ns1:PER .
-
-ns1:Warsaw a ns1:LOC .
-
-ns1:Warsaw_Newsroom a ns1:ORG .
-
-ns1:Washington a ns1:LOC .
-
-ns1:Wasim a ns1:PER .
-
-ns1:Wasim_Akram a ns1:PER .
-
-ns1:Watford a ns1:ORG .
-
-ns1:Weah ns1:suspend ns1:UEFA .
-
-ns1:Wellington a ns1:LOC .
-
-ns1:Welsh a ns1:MISC .
-
-ns1:Werder_Bremen a ns1:ORG .
-
-ns1:West a ns1:LOC .
-
-ns1:West_Bromwich a ns1:ORG .
-
-ns1:West_Coast a ns1:ORG .
-
-ns1:West_Coast_Vessel_Loadings a ns1:ORG .
-
-ns1:West_Ham a ns1:ORG .
-
-ns1:West_Indies a ns1:LOC .
-
-ns1:Western a ns1:MISC .
-
-ns1:Wheat_121_130_121.3_121 a ns1:ORG .
-
-ns1:Wheat_387.4_4677.8_4553.6_55.2_1039.7_846.1 a ns1:ORG .
-
-ns1:Wheat_4320.2_3909.3_288.5_6278.9_5580.0 a ns1:ORG .
-
-ns1:White_House a ns1:LOC .
-
-ns1:Wigan a ns1:ORG .
-
-ns1:Willem_II_Tilburg a ns1:ORG .
-
-ns1:William_Hill a ns1:PER .
+ns1:West_Ham a ns1:LOC,
+        ns1:PER .
 
 ns1:Wimbledon a ns1:MISC .
 
-ns1:Wimbledon_leap-frogged a ns1:ORG .
+ns1:Wolves a ns1:PER .
 
-ns1:Winston_Peters a ns1:PER .
+ns1:XRG a ns1:ORG .
 
-ns1:Wolverhampton a ns1:ORG .
+ns1:achievement ns1:celebrate ns1:dmitriev .
 
-ns1:Woolmer a ns1:PER .
+ns1:back_Taylor a ns1:PER .
 
-ns1:World a ns1:MISC .
+ns1:blue ns1:go ns1:interval .
 
-ns1:World_Cup a ns1:MISC .
+ns1:blueco ns1:announce ns1:loss ;
+    ns1:lost ns1:m .
 
-ns1:World_Cup_standings a ns1:MISC .
+ns1:bos ns1:face ns1:section .
 
-ns1:World_Open a ns1:MISC .
+ns1:brother ns1:spend ns1:sinner .
 
-ns1:World_Series a ns1:MISC .
+ns1:bruyne ns1:leave ns1:time .
 
-ns1:World_Trade_Organisation a ns1:ORG .
+ns1:caesar ns1:return ns1:widdicombe .
 
-ns1:World_War a ns1:MISC .
+ns1:campaign ns1:remain ns1:history .
 
-ns1:Wrexham a ns1:ORG .
+ns1:canada ns1:reach ns1:medal .
 
-ns1:Wycombe a ns1:ORG .
+ns1:car ns1:convert ns1:position .
 
-ns1:Xinhua a ns1:ORG .
+ns1:chance ns1:move ns1:darren .
 
-ns1:Xuc_Rulhong a ns1:PER .
+ns1:chelsea ns1:remain ns1:place ;
+    ns1:suffer ns1:struggle .
 
-ns1:Y-GREEN_BAY a ns1:PER .
+ns1:christiansen ns1:tell ns1:sport .
 
-ns1:Yamakage_Hiroaki a ns1:PER .
+ns1:city ns1:join ns1:loan .
 
-ns1:Yasser_Arafat a ns1:PER .
+ns1:clarke ns1:go ns1:downes .
 
-ns1:Ye_Zhaoying a ns1:PER .
+ns1:class ns1:title ns1:season .
 
-ns1:Year_Ago_47%2C000_24%2C300_8%2C700_8%2C200_12%2C200 a ns1:ORG .
+ns1:club ns1:transform ns1:good .
 
-ns1:Yeltsin a ns1:PER .
+ns1:clubbyclub ns1:guide ns1:school .
 
-ns1:Yevgeny_Kafelnikov a ns1:PER .
+ns1:contender ns1:need ns1:mullins .
 
-ns1:York a ns1:ORG .
+ns1:contract ns1:believe ns1:clause .
 
-ns1:Yorkshire a ns1:ORG .
+ns1:court ns1:feel ns1:level .
 
-ns1:Yugoslav a ns1:MISC .
+ns1:cucurella ns1:inform ns1:neto .
 
-ns1:Yugoslavia a ns1:LOC .
+ns1:cyclist ns1:win ns1:event .
 
-ns1:ZIMBABWE_OPEN a ns1:MISC .
+ns1:d ns1:stop ns1:briton .
 
-ns1:Zafririm_Holon a ns1:ORG .
+ns1:dechambeau ns1:finish ns1:shot .
 
-ns1:Zahoor_Elahi a ns1:PER .
+ns1:dilemma ns1:stick ns1:hole .
 
-ns1:Zaire a ns1:LOC .
+ns1:driver ns1:comment ns1:career .
 
-ns1:Zambia a ns1:LOC .
+ns1:end ns1:show ns1:play .
 
-ns1:Zeljko_Petrovic a ns1:PER .
+ns1:exemption ns1:sergio ns1:garcia .
 
-ns1:Zimbabwe a ns1:LOC .
+ns1:exit ns1:mclaren ns1:norris .
 
-ns1:Zimbabwe_Open a ns1:MISC .
+ns1:flanders ns1:complete ns1:belgium .
 
-ns1:Zywiec ns1:boost ns1:shedding .
+ns1:fodens ns1:show ns1:derbyat .
 
-ns1:assets ns1:seize ns1:authorities .
+ns1:footballer ns1:play ns1:tariff .
 
-ns1:bites ns1:deliver ns1:dogs .
+ns1:fraser ns1:circulate ns1:name .
 
-ns1:butting_Costa a ns1:PER .
+ns1:gretzky ns1:break ns1:record ;
+    ns1:hold ns1:record .
 
-ns1:centre-left_Social_Democrats a ns1:ORG .
+ns1:hope ns1:avoid ns1:record ;
+    ns1:finish ns1:mood .
 
-ns1:ceremony ns1:attend ns1:Constantinescu .
+ns1:house ns1:take ns1:title .
 
-ns1:chances ns1:reduce ns1:injury .
+ns1:hull ns1:take ns1:liverpool .
 
-ns1:club ns1:rock ns1:burst .
+ns1:individual ns1:involve ns1:chant .
 
-ns1:conditions ns1:meet ns1:airlines .
+ns1:ipswich ns1:lose ns1:sunderland .
 
-ns1:crowd ns1:anger ns1:incident .
+ns1:italian ns1:blame ns1:gamble .
 
-ns1:da_Silva a ns1:PER .
+ns1:jannik ns1:tell ns1:conference .
 
-ns1:deadline ns1:set ns1:Ministry .
+ns1:japan ns1:follow ns1:lap .
 
-ns1:election ns1:hold ns1:May .
+ns1:join ns1:help ns1:level .
 
-ns1:fans ns1:wound ns1:gunmen .
+ns1:kopecky ns1:become ns1:woman ;
+    ns1:go ns1:borghini ;
+    ns1:make ns1:history .
 
-ns1:far-right_National_Alliance a ns1:ORG .
+ns1:leishman ns1:join ns1:golf .
 
-ns1:freestyle_skiing a ns1:PER .
+ns1:lineup ns1:announce ns1:surprise .
 
-ns1:half ns1:provoke ns1:humans ;
-    ns1:suffer ns1:children .
+ns1:marko ns1:help ns1:level .
 
-ns1:half-time_full-time a ns1:PER .
+ns1:mcilroy ns1:cope ns1:mickelson .
 
-ns1:he ns1:greet ns1:jeers .
+ns1:men ns1:do ns1:point .
 
-ns1:it ns1:take ns1:others .
+ns1:mercedes ns1:stop ns1:lap .
 
-ns1:laPena a ns1:ORG .
+ns1:miami ns1:open ns1:tour ;
+    ns1:see ns1:master ;
+    ns1:struggle ns1:djokovic .
 
-ns1:neo-fascist_Social_Movement a ns1:ORG .
+ns1:midfielder ns1:join ns1:brighton .
 
-ns1:par-72_Chapman_Golf a ns1:PER .
+ns1:mouats ns1:reach ns1:medal .
 
-ns1:parts ns1:estimate ns1:X .
+ns1:mowbray ns1:leave ns1:mary .
 
-ns1:percent ns1:fuel ns1:money ;
-    ns1:provoke ns1:person ;
-    ns1:suffer ns1:children .
+ns1:neville ns1:tell ns1:sport .
 
-ns1:policy ns1:shape ns1:Clinton .
+ns1:news ns1:send ns1:phone .
 
-ns1:prophet_Mohammed a ns1:PER .
+ns1:noone ns1:want ns1:record .
 
-ns1:protesters ns1:outnumber ns1:Italians .
+ns1:obsessive ns1:live ns1:man .
 
-ns1:ratification ns1:delay ns1:party .
+ns1:one ns1:remain ns1:alex ;
+    ns1:take ns1:championship .
 
-ns1:relations ns1:sour ns1:relaxation .
+ns1:ovechkin ns1:become ns1:league .
 
-ns1:report ns1:see ns1:Reuters .
+ns1:parson ns1:join ns1:dyson .
 
-ns1:responses ns1:make <http://example.org/Jan.> .
+ns1:payment ns1:deliver ns1:season .
 
-ns1:stocks ns1:hurt ns1:rates .
+ns1:people ns1:remain ns1:point .
 
-ns1:students ns1:detain ns1:police .
+ns1:phil ns1:foden ns1:fan .
 
-ns1:they ns1:seize ns1:troops .
+ns1:playoff ns1:write ns1:howe .
 
-ns1:which ns1:guard ns1:soldiers ;
-    ns1:patrol ns1:troops ;
-    ns1:sign ns1:government .
+ns1:poel ns1:rejoin ns1:peloton .
 
-ns1:who ns1:hold ns1:police ;
-    ns1:victimise ns1:terrorists .
+ns1:pogacar ns1:complete ns1:belgium .
 
-ns1:Clinton a ns1:PER .
+ns1:qa ns1:send ns1:performance .
 
-ns1:Reuters a ns1:ORG .
+ns1:qualifying ns1:make ns1:mistake .
 
-ns1:UEFA a ns1:ORG .
+ns1:race ns1:accept ns1:challenge ;
+    ns1:hold ns1:belgium .
+
+ns1:ramsdale ns1:suffer ns1:career .
+
+ns1:rest ns1:fall ns1:arsenal .
+
+ns1:richards ns1:tell ns1:sport .
+
+ns1:run ns1:end ns1:liverpool .
+
+ns1:scot ns1:score ns1:lead .
+
+ns1:scotland ns1:take ns1:moose .
+
+ns1:serve ns1:create ns1:something .
+
+ns1:sheffield ns1:unite ns1:team .
+
+ns1:side ns1:reach ns1:mark .
+
+ns1:sitesread ns1:approach ns1:linking .
+
+ns1:situation ns1:change ns1:thing .
+
+ns1:slot ns1:worry ns1:form .
+
+ns1:slovenian ns1:pull ns1:go .
+
+ns1:source ns1:tell ns1:player .
+
+ns1:southampton ns1:beat ns1:record .
+
+ns1:spectator ns1:acknowledge ns1:moment ;
+    ns1:gather ns1:bruges .
+
+ns1:start ns1:lose ns1:term .
+
+ns1:stint ns1:create ns1:lap .
+
+ns1:suzuka ns1:play ns1:advantage .
+
+ns1:switzerland ns1:level ns1:score .
+
+ns1:target ns1:bring ns1:maresca .
+
+ns1:that ns1:get ns1:attack ;
+    ns1:s ns1:mindset .
+
+ns1:thatverstappen ns1:give ns1:norris .
+
+ns1:they ns1:ve ns1:invincibles,
+        ns1:season .
+
+ns1:threat ns1:remain ns1:piastri .
+
+ns1:tottenham ns1:guarantee ns1:everyone .
+
+ns1:track ns1:give ns1:game .
+
+ns1:trajectory ns1:take ns1:lead .
+
+ns1:u ns1:want ns1:weekend .
+
+ns1:united ns1:leave ns1:direction ;
+    ns1:set ns1:stage .
+
+ns1:variability ns1:warn ns1:alonso .
+
+ns1:verstappen ns1:steal ns1:mclaren,
+        ns1:prix ;
+    ns1:take ns1:norris .
+
+ns1:video ns1:become ns1:scorer .
+
+ns1:warms ns1:cope ns1:mickelson .
+
+ns1:we ns1:hear ns1:fan ;
+    ns1:shoot ns1:concern .
+
+ns1:work ns1:improve ns1:experience .
+
+ns1:you ns1:re ns1:box .
+
+ns1:alex ns1:make ns1:debut .
+
+ns1:brentford ns1:stretch ns1:winless .
+
+ns1:competition ns1:attract ns1:kind .
+
+ns1:concern ns1:score ns1:competition .
+
+ns1:djokovic ns1:chase ns1:title .
+
+ns1:form ns1:begin ns1:servinga .
+
+ns1:game ns1:add ns1:opinion .
+
+ns1:loss ns1:add ns1:shout .
+
+ns1:maresca ns1:leave ns1:jackson .
+
+ns1:name ns1:replace ns1:martin .
+
+ns1:piastri ns1:lap ns1:position .
+
+ns1:place ns1:amplify ns1:account .
+
+ns1:player ns1:take ns1:addition .
+
+ns1:scorer ns1:surpass ns1:wayne .
+
+ns1:style ns1:play ns1:failure ;
+    ns1:win ns1:sprint .
+
+ns1:team ns1:concede ns1:liverpool ;
+    ns1:relegate ns1:match .
+
+ns1:fan ns1:deserve ns1:mistake .
+
+ns1:mickelson ns1:beat ns1:charl ;
+    ns1:finish ns1:rahm .
+
+ns1:point ns1:think ns1:season .
+
+ns1:title ns1:beat ns1:charl ;
+    ns1:challenger ns1:brentford .
+
+ns1:liverpool ns1:do ns1:style ;
+    ns1:miss ns1:salah .
+
+ns1:norris ns1:stop ns1:briton ;
+    ns1:win ns1:follow .
+
+ns1:season ns1:feel ns1:age ;
+    ns1:lose ns1:sunderland .
 
