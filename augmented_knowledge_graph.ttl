@@ -1,0 +1,1235 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://example.org/> .
+@prefix ns2: <http://dbpedia.org/ontology/> .
+
+<http://example.org/%C2%A3> a ns1:MISC .
+
+ns1:142 ns1:take ns1:seven .
+
+ns1:66 ns1:move ns1:him .
+
+ns1:ATP a ns1:ORG ;
+    ns1:make ns1:progress .
+
+ns1:Alcaraz a ns1:ORG ;
+    ns1:head ns1:field .
+
+ns1:Alex_Hoad a ns1:PER .
+
+ns1:Alex_de_Minaur a ns1:PER .
+
+ns1:Alexander a ns1:LOC .
+
+ns1:Alexandra_Eala a ns1:PER .
+
+ns1:Ali a ns1:PER ;
+    ns1:see ns1:situation .
+
+ns1:Allan_Taylor a ns1:PER .
+
+ns1:Allen a ns1:PER .
+
+ns1:Altay_Bayindir a ns1:PER .
+
+ns1:America a ns1:LOC .
+
+ns1:Americans a ns1:MISC .
+
+ns1:Amorim a ns1:ORG,
+        ns1:PER ;
+    ns1:face ns1:decision .
+
+ns1:Amy_Lofthouse a ns1:PER .
+
+ns1:Andre_Onana a ns1:PER .
+
+ns1:Andreescu a ns1:LOC .
+
+ns1:Andy_Coleman a ns1:PER .
+
+ns1:Ange_Postecoglou a ns1:LOC .
+
+ns1:Antonio_Conte a ns1:PER .
+
+ns1:Arne_Slot a ns1:PER .
+
+ns1:Arnold a ns1:LOC ;
+    ns1:do ns1:what ;
+    ns1:encourage ns1:shot .
+
+ns1:Arsenal a ns1:ORG,
+        <http://example.org/http://dbpedia.org/ontology/Company> ;
+    ns2:wikiPageWikiLink <http://example.org/http://dbpedia.org/resource/Ammunition>,
+        <http://example.org/http://dbpedia.org/resource/Category:Arsenals>,
+        <http://example.org/http://dbpedia.org/resource/Category:Military_installations>,
+        <http://example.org/http://dbpedia.org/resource/Frankford_Arsenal>,
+        <http://example.org/http://dbpedia.org/resource/Rock_Island_Arsenal>,
+        <http://example.org/http://dbpedia.org/resource/Royal_Armouries>,
+        <http://example.org/http://dbpedia.org/resource/Venetian_Arsenal> ;
+    dcterms:subject <http://example.org/http://dbpedia.org/resource/Category:Arsenals>,
+        <http://example.org/http://dbpedia.org/resource/Category:Military_installations> .
+
+ns1:Arteta ns1:bring ns1:Delap .
+
+ns1:Arthur_Fils a ns1:LOC .
+
+ns1:Assocationhas ns1:release ns1:total .
+
+ns1:Aston_Villa a ns1:PER .
+
+ns1:AudioDurham a ns1:ORG .
+
+ns1:AudioGloucestershire a ns1:ORG .
+
+ns1:AudioLancashire a ns1:ORG .
+
+ns1:AudioLeicestershire a ns1:ORG .
+
+ns1:AudioNottinghamshire a ns1:ORG ;
+    ns1:listen ns1:live .
+
+ns1:AudioRory_McIlroy a ns1:PER .
+
+ns1:AudioSurrey a ns1:ORG .
+
+ns1:AudioSussex a ns1:ORG .
+
+ns1:Augusta a ns1:LOC .
+
+ns1:Augusta_National a ns1:LOC .
+
+ns1:Australian a ns1:MISC .
+
+ns1:Australian_Open a ns1:MISC .
+
+ns1:BBC a ns1:ORG .
+
+ns1:BBC_NI_Sport a ns1:ORG .
+
+ns1:BBC_Radio a ns1:ORG .
+
+ns1:BBC_Radio_Bristol a ns1:ORG .
+
+ns1:BBC_Radio_Bristol_Listen a ns1:ORG .
+
+ns1:BBC_Radio_Lancashire a ns1:ORG .
+
+ns1:BBC_Radio_Lancashire_Listen a ns1:ORG .
+
+ns1:BBC_Radio_Leicester a ns1:ORG .
+
+ns1:BBC_Radio_Leicester_Listen a ns1:ORG .
+
+ns1:BBC_Radio_London a ns1:ORG .
+
+ns1:BBC_Radio_Newcastle a ns1:ORG .
+
+ns1:BBC_Radio_Newcastle_Bears a ns1:ORG .
+
+ns1:BBC_Radio_Newcastle_Listen a ns1:ORG .
+
+ns1:BBC_Radio_Newcastle_This a ns1:ORG .
+
+ns1:BBC_Radio_Nottingham a ns1:ORG .
+
+ns1:BBC_Radio_Nottingham_Listen a ns1:ORG .
+
+ns1:BBC_Radio_Sussex a ns1:ORG .
+
+ns1:BBC_Sport a ns1:ORG .
+
+ns1:BJK_Cup a ns1:MISC .
+
+ns1:Bahrain a ns1:LOC .
+
+ns1:Bailey ns1:pick ns1:injury .
+
+ns1:Ballon a ns1:ORG .
+
+ns1:Bamber ns1:collect ns1:singles ;
+    ns1:see ns1:over .
+
+ns1:Barcelona a ns1:LOC .
+
+ns1:Barcelona_Open a ns1:MISC .
+
+ns1:Barnard a ns1:LOC .
+
+ns1:Barry a ns1:PER .
+
+ns1:Bayindir a ns1:LOC,
+        ns1:PER ;
+    ns1:attempt ns1:pass ;
+    ns1:concede ns1:goals ;
+    ns1:make ns1:debut .
+
+ns1:Bears a ns1:MISC ;
+    ns1:need ns1:runs .
+
+ns1:Belgian a ns1:MISC .
+
+ns1:Belgium a ns1:LOC .
+
+ns1:Belinda a ns1:ORG .
+
+ns1:Ben_Hogan a ns1:PER .
+
+ns1:Ben_McKinney a ns1:PER .
+
+ns1:Ben_Pheazey a ns1:PER .
+
+ns1:Ben_Raine a ns1:PER .
+
+ns1:Big a ns1:MISC .
+
+ns1:Billie_Jean a ns1:PER .
+
+ns1:Billie_Jean_King_Cup a ns1:MISC .
+
+ns1:Billie_Jean_Kingreceived a ns1:PER .
+
+ns1:Boaz_Myhill a ns1:PER .
+
+ns1:Bob a ns1:PER .
+
+ns1:Bob_Rotella a ns1:PER .
+
+ns1:Bohannon a ns1:PER ;
+    ns1:hit ns1:155 .
+
+ns1:Booth a ns1:ORG ;
+    ns1:block ns1:ball ;
+    ns1:work ns1:single .
+
+ns1:Bournemouth a ns1:ORG .
+
+ns1:Brendan_Doggett a ns1:PER .
+
+ns1:Brett_Cravatt a ns1:PER .
+
+ns1:Bridgerton a ns1:ORG .
+
+ns1:Brighton a ns1:ORG,
+        ns1:PER ;
+    ns1:kick ns1:it .
+
+ns1:British a ns1:MISC ;
+    ns1:double ns1:Cash .
+
+ns1:Broad a ns1:PER .
+
+ns1:Brooke_Guest a ns1:PER .
+
+ns1:Bruno_Guimaraes a ns1:PER .
+
+ns1:Bryson_DeChambeau a ns1:PER .
+
+ns1:Burnley a ns1:PER .
+
+ns1:CLS a ns1:ORG .
+
+ns1:Calvin_Harrison a ns1:PER .
+
+ns1:Calvin_Harrisonstrikes a ns1:PER .
+
+ns1:Cameron_Norriecame a ns1:PER .
+
+ns1:Cameroon a ns1:LOC .
+
+ns1:Carlos_Alcaraz a ns1:PER .
+
+ns1:Champions_League a ns1:MISC .
+
+ns1:Chelsea a ns1:ORG,
+        ns1:PER ;
+    ns1:spend ns1:m,
+        ns1:most .
+
+ns1:Chris_Wilder a ns1:PER .
+
+ns1:City ns1:spend ns1:most .
+
+ns1:Clay a ns1:PER .
+
+ns1:Comments a ns1:ORG .
+
+ns1:Conte ns1:attract ns1:coaches .
+
+ns1:Corner a ns1:PER .
+
+ns1:Croatia a ns1:LOC .
+
+ns1:D1 a ns1:ORG .
+
+ns1:Daniel_Farke a ns1:PER .
+
+ns1:Dartalso a ns1:PER .
+
+ns1:DeChambeau a ns1:ORG,
+        ns1:PER ;
+    ns1:describe ns1:what ;
+    ns1:feed ns1:decibels ;
+    ns1:snatcha ns1:victory .
+
+ns1:De_Bruyne a ns1:PER .
+
+ns1:De_Zerbi a ns1:PER .
+
+ns1:Derby a ns1:PER .
+
+ns1:Derbyshire a ns1:ORG ;
+    ns1:pursue ns1:target .
+
+ns1:Destiny_Udogie a ns1:ORG .
+
+ns1:Diamond a ns1:ORG,
+        ns1:PER .
+
+ns1:Directed a ns1:PER .
+
+ns1:Disney a ns1:ORG .
+
+ns1:Division_One a ns1:MISC .
+
+ns1:Doggett a ns1:PER ;
+    ns1:tempt ns1:him .
+
+ns1:Dominant_Pimblett a ns1:PER .
+
+ns1:Durham_Emilio_Gay a ns1:ORG .
+
+ns1:Durham_Ethan_Bamber a ns1:PER .
+
+ns1:Durham_Martin a ns1:PER .
+
+ns1:Durham_Matty_Potts a ns1:ORG .
+
+ns1:Dutchman a ns1:MISC .
+
+ns1:EFL a ns1:ORG .
+
+ns1:EFL_Championship a ns1:ORG .
+
+ns1:EFL_Cup a ns1:MISC .
+
+ns1:Emma_Raducanuis a ns1:PER .
+
+ns1:England a ns1:LOC .
+
+ns1:England%27sTommy_Fleetwoodsaid a ns1:MISC .
+
+ns1:England_Rio_Ferdinand a ns1:LOC .
+
+ns1:English a ns1:MISC .
+
+ns1:Erica a ns1:ORG .
+
+ns1:Essex a ns1:ORG .
+
+ns1:Ethan_Bamber a ns1:PER .
+
+ns1:Europa_League a ns1:MISC .
+
+ns1:Europe a ns1:LOC .
+
+ns1:European a ns1:MISC .
+
+ns1:Except a ns1:PER .
+
+ns1:Explainer a ns1:PER .
+
+ns1:Fenerbahce a ns1:ORG .
+
+ns1:Filiep_Jodts a ns1:PER .
+
+ns1:Finnish a ns1:MISC .
+
+ns1:Football_Assocationhas a ns1:ORG .
+
+ns1:Football_Daily a ns1:PER .
+
+ns1:Formula_1 a ns1:MISC .
+
+ns1:France a ns1:LOC .
+
+ns1:Franco_Baresi a ns1:PER .
+
+ns1:French_Open a ns1:MISC .
+
+ns1:GP a ns1:ORG .
+
+ns1:Gary_Player a ns1:PER .
+
+ns1:Gene_Sarazen a ns1:PER .
+
+ns1:Get a ns1:ORG .
+
+ns1:Get_Man_Utd a ns1:ORG .
+
+ns1:Gideon_Brooks a ns1:PER .
+
+ns1:Glamorgan a ns1:ORG .
+
+ns1:Goalkeeper_Alisson a ns1:PER .
+
+ns1:Grand_Slam a ns1:MISC .
+
+ns1:Grand_Slam_Comments a ns1:MISC .
+
+ns1:Grand_Slam_Masters a ns1:MISC .
+
+ns1:Grand_Slam_McIlroy a ns1:MISC .
+
+ns1:Great_Britain a ns1:PER .
+
+ns1:Green_Jacket a ns1:ORG,
+        ns1:PER .
+
+ns1:Guardiola a ns1:PER ;
+    ns1:tread ns1:water .
+
+ns1:Guest ns1:take ns1:single .
+
+ns1:Guimaraes ns1:add ns1:goal .
+
+ns1:Hampshire a ns1:ORG .
+
+ns1:Hants ns1:get ns1:four ;
+    ns1:need ns1:over .
+
+ns1:Harri_Heliovaara a ns1:PER .
+
+ns1:Harrington ns1:win ns1:majors .
+
+ns1:Harrisin_Munich a ns1:PER .
+
+ns1:Harrison a ns1:PER .
+
+ns1:Harry_Diamond a ns1:PER .
+
+ns1:Harry_Kane a ns1:PER .
+
+ns1:Hartley a ns1:PER .
+
+ns1:Hartleytries ns1:leave ns1:ball .
+
+ns1:Haynes a ns1:PER .
+
+ns1:He ns1:attempt ns1:passes ;
+    ns1:face ns1:balls ;
+    ns1:have ns1:loss,
+        ns1:start,
+        ns1:swing,
+        ns1:words ;
+    ns1:keep ns1:players ;
+    ns1:meet ns1:O%27Connor ;
+    ns1:see ns1:over .
+
+ns1:Heliovaara ns1:reach ns1:semi .
+
+ns1:Hibs_Scotland a ns1:PER .
+
+ns1:Hollywood_Walk_of_Fame a ns1:ORG .
+
+ns1:Holywood a ns1:LOC .
+
+ns1:Holywood_Golf_Club a ns1:LOC .
+
+ns1:Howe_What%27s a ns1:MISC .
+
+ns1:Hull_City a ns1:PER .
+
+ns1:I ns1:admire ns1:heck ;
+    ns1:call ns1:them ;
+    ns1:have ns1:conversation,
+        ns1:day ;
+    ns1:hit ns1:drive ;
+    ns1:know ns1:Harry,
+        ns1:Rory ;
+    ns1:meet ns1:him ;
+    ns1:see ns1:enthusiasm ;
+    ns1:watch ns1:boys .
+
+ns1:ITF_M15 a ns1:ORG .
+
+ns1:Iga_Swiatek a ns1:ORG .
+
+ns1:Inspired a ns1:PER .
+
+ns1:Inter_Milan a ns1:ORG .
+
+ns1:Ipswich_Town a ns1:PER .
+
+ns1:Ireland a ns1:LOC .
+
+ns1:Irish a ns1:MISC .
+
+ns1:It ns1:enable ns1:boy ;
+    ns1:spark ns1:streak ;
+    ns1:take ns1:world .
+
+ns1:Italy a ns1:LOC .
+
+ns1:Iulian a ns1:MISC .
+
+ns1:JP_Fitzgerald a ns1:PER .
+
+ns1:Jack_Nicklaus a ns1:PER .
+
+ns1:Jackson_Page a ns1:PER .
+
+ns1:Jacob_Fearnleylost a ns1:PER .
+
+ns1:Japan_Open a ns1:MISC .
+
+ns1:Jason_Cohen a ns1:PER .
+
+ns1:Jason_Levien a ns1:PER .
+
+ns1:JavaScript a ns1:PER .
+
+ns1:Jessica_Pegula a ns1:PER .
+
+ns1:Jessica_PegulaandMirra a ns1:PER .
+
+ns1:Jodie_Burrage a ns1:PER .
+
+ns1:Jodts ns1:tell ns1:Sport .
+
+ns1:Joe_Allen a ns1:PER .
+
+ns1:Joe_O%27Connor a ns1:PER .
+
+ns1:Joelinton a ns1:PER .
+
+ns1:John_Grisham a ns1:PER .
+
+ns1:John_Turner a ns1:PER .
+
+ns1:Judgement_Day a ns1:PER .
+
+ns1:Jurgen_Klopp a ns1:PER .
+
+ns1:Justin_Broad a ns1:PER .
+
+ns1:Justin_Rose a ns1:PER .
+
+ns1:Kane ns1:don ns1:gloves .
+
+ns1:Katie_Boulter a ns1:PER .
+
+ns1:Keane a ns1:PER ;
+    ns1:tell ns1:Sports .
+
+ns1:Kemar_Roach a ns1:PER .
+
+ns1:Kent a ns1:ORG .
+
+ns1:Keogh a ns1:PER .
+
+ns1:Kevin a ns1:PER ;
+    ns1:have ns1:what .
+
+ns1:LIV_Golf a ns1:ORG .
+
+ns1:Lamine_Yamal a ns1:MISC .
+
+ns1:Lamine_Yamal_Copyright a ns1:ORG .
+
+ns1:Lancashire a ns1:ORG .
+
+ns1:Lancs a ns1:LOC,
+        ns1:ORG,
+        ns1:PER .
+
+ns1:League_One a ns1:MISC .
+
+ns1:Leeds_United a ns1:ORG .
+
+ns1:Leicestershire a ns1:ORG .
+
+ns1:Leicestershire_Gloucestershire a ns1:ORG .
+
+ns1:Leics a ns1:ORG .
+
+ns1:Let a ns1:ORG .
+
+ns1:Liam_Guthrie a ns1:PER .
+
+ns1:Listen ns1:live ns1:Gloucestershire .
+
+ns1:Liverpool a ns1:ORG .
+
+ns1:Lloyd_Glasspoolbegan a ns1:PER .
+
+ns1:Logan_van_Beek a ns1:MISC .
+
+ns1:Lorenzo_Musetti a ns1:PER .
+
+ns1:Lorenzo_Musetti%27sMonte_Carlo a ns1:PER .
+
+ns1:Lovely a ns1:LOC .
+
+ns1:Lowry a ns1:PER ;
+    ns1:tell ns1:Sport .
+
+ns1:Lucy_ShukerandBen_Bartramare a ns1:PER .
+
+ns1:Luka_Modric a ns1:PER .
+
+ns1:Luke_Wellsis a ns1:PER .
+
+ns1:Lyon a ns1:ORG .
+
+ns1:Madrid a ns1:LOC .
+
+ns1:Man_City a ns1:LOC .
+
+ns1:Man_Utd a ns1:MISC,
+        ns1:PER .
+
+ns1:Manchester_City a ns1:LOC,
+        ns1:ORG .
+
+ns1:Manchester_United a ns1:ORG .
+
+ns1:Manuel_Guinard a ns1:PER .
+
+ns1:Mark_Petchy a ns1:PER .
+
+ns1:Marko a ns1:PER .
+
+ns1:Masters_Can_Swiatek a ns1:ORG .
+
+ns1:Masters_This_video a ns1:MISC .
+
+ns1:Mathieu_van_der_Poel a ns1:LOC,
+        ns1:PER .
+
+ns1:Matic a ns1:MISC .
+
+ns1:Matt_Fisher a ns1:PER .
+
+ns1:Matty_Potts a ns1:PER .
+
+ns1:McIlroy%27s a ns1:ORG .
+
+ns1:McIlroy%E2%80%99s a ns1:ORG .
+
+ns1:McIlroy_Masters a ns1:ORG .
+
+ns1:McIlroy_McIlroy a ns1:PER .
+
+ns1:McIlroy_Modric a ns1:LOC .
+
+ns1:McIlroy_Podcast a ns1:LOC,
+        ns1:ORG .
+
+ns1:Methods ns1:include ns1:Zootopia .
+
+ns1:Miami a ns1:LOC .
+
+ns1:Miami_Openby_Filipina a ns1:ORG .
+
+ns1:Michael_Booth a ns1:PER .
+
+ns1:Middlesex a ns1:ORG .
+
+ns1:Mikel_Arteta a ns1:PER .
+
+ns1:Modric a ns1:PER ;
+    ns1:win ns1:d%27Or .
+
+ns1:Monaco a ns1:LOC .
+
+ns1:Monastir a ns1:PER .
+
+ns1:Monte_Carlo a ns1:LOC .
+
+ns1:Monte_Carlo_Masters a ns1:ORG .
+
+ns1:Mullin a ns1:LOC .
+
+ns1:Munich_Open a ns1:MISC .
+
+ns1:Murphy_It a ns1:PER .
+
+ns1:Musetti a ns1:PER ;
+    ns1:beat ns1:Tsitsipas .
+
+ns1:NBA a ns1:ORG .
+
+ns1:Netherlands a ns1:LOC .
+
+ns1:Newcastle a ns1:ORG ;
+    ns1:beat ns1:Utd .
+
+ns1:Nicklaus%2C85 a ns1:LOC .
+
+ns1:Nigel_Morris a ns1:PER .
+
+ns1:Northamptonshire a ns1:ORG .
+
+ns1:Northants a ns1:ORG,
+        ns1:PER ;
+    ns1:try ns1:thrash .
+
+ns1:Northern_Ireland a ns1:LOC,
+        ns1:ORG .
+
+ns1:Nottinghamshire a ns1:ORG .
+
+ns1:Notts a ns1:ORG .
+
+ns1:O%27Neal ns1:sum ns1:problem .
+
+ns1:OK a ns1:ORG .
+
+ns1:Ollie_Robinson a ns1:PER .
+
+ns1:Open_Championship a ns1:MISC,
+        ns1:ORG .
+
+ns1:Open_de_Rouen a ns1:MISC .
+
+ns1:Or a ns1:LOC .
+
+ns1:Owner ns1:beat ns1:Tsitsipas .
+
+ns1:PGA_Tour a ns1:MISC .
+
+ns1:Padraig_Harrington a ns1:PER .
+
+ns1:Page a ns1:PER ;
+    ns1:rack ns1:maximum .
+
+ns1:Paris a ns1:LOC .
+
+ns1:Patience a ns1:PER .
+
+ns1:Paul_Robinson a ns1:PER .
+
+ns1:Pebble_Beach a ns1:LOC .
+
+ns1:Pegula ns1:defend ns1:none .
+
+ns1:Pep_Guardiola a ns1:PER .
+
+ns1:Pimblett ns1:stop ns1:Chandler .
+
+ns1:Player ns1:tell ns1:Live .
+
+ns1:Poel ns1:describe ns1:it ;
+    ns1:shrug ns1:incident ;
+    ns1:win ns1:titles .
+
+ns1:Pogacar a ns1:PER .
+
+ns1:Poland a ns1:LOC .
+
+ns1:Poppy a ns1:LOC,
+        ns1:PER ;
+    ns1:steal ns1:show .
+
+ns1:Poppy_Bayindir a ns1:PER .
+
+ns1:Poppy_Switching a ns1:PER .
+
+ns1:Porsche a ns1:ORG .
+
+ns1:Portuguese a ns1:MISC ;
+    ns1:give ns1:nothing .
+
+ns1:Potts a ns1:MISC ;
+    ns1:beat ns1:edge ;
+    ns1:take ns1:ball .
+
+ns1:Premier_League a ns1:MISC .
+
+ns1:Premier_League_The a ns1:MISC .
+
+ns1:Prest a ns1:LOC ;
+    ns1:keep ns1:strike .
+
+ns1:Public_Prosecution_Service a ns1:ORG .
+
+ns1:Raducanuis ns1:turn ns1:Petchy .
+
+ns1:Raine a ns1:LOC .
+
+ns1:Real_Madrid a ns1:ORG .
+
+ns1:Real_Madrid_Modric a ns1:ORG .
+
+ns1:Rick_Barry a ns1:PER .
+
+ns1:Roach a ns1:PER .
+
+ns1:Rob_Keogh a ns1:PER .
+
+ns1:Roberto_de_Zerbi a ns1:PER .
+
+ns1:Robinson a ns1:PER ;
+    ns1:stop ns1:byes ;
+    ns1:tell ns1:Live .
+
+ns1:Romain_Arneodo a ns1:PER .
+
+ns1:Rory_McIlroy a ns1:MISC,
+        ns1:PER .
+
+ns1:Rory_McIlroy_A a ns1:PER .
+
+ns1:Rory_and_they_wanted a ns1:MISC .
+
+ns1:Rotella a ns1:ORG,
+        ns1:PER ;
+    ns1:tell ns1:Live .
+
+ns1:Roubaix a ns1:PER .
+
+ns1:Roy_Keane a ns1:PER .
+
+ns1:Ruben_Amorim a ns1:PER .
+
+ns1:RuudandAndrey_Rublev a ns1:PER .
+
+ns1:Ryder_Cup a ns1:MISC .
+
+ns1:Salah a ns1:PER ;
+    ns1:turn ns1:rise .
+
+ns1:Sam_Mendes a ns1:PER .
+
+ns1:Saudi a ns1:MISC .
+
+ns1:Saxo_Classic a ns1:PER .
+
+ns1:Scott_ReadBBC_Radio_Lancashire a ns1:PER .
+
+ns1:Scottish_Open a ns1:MISC .
+
+ns1:Second_Serve a ns1:PER .
+
+ns1:Semi a ns1:PER .
+
+ns1:Sergio_Garcia a ns1:PER .
+
+ns1:Shane_Lowry a ns1:PER .
+
+ns1:Shaquille_O%27Neal a ns1:PER .
+
+ns1:Sheffield_United a ns1:LOC .
+
+ns1:Sky_Sports a ns1:ORG .
+
+ns1:Slot ns1:withdraw ns1:Alisson .
+
+ns1:Somerset a ns1:ORG .
+
+ns1:Sonay_Kartal a ns1:PER .
+
+ns1:Sonia_Bompastor a ns1:ORG .
+
+ns1:South_Africa a ns1:LOC .
+
+ns1:Spain a ns1:LOC .
+
+ns1:Spaniard a ns1:MISC .
+
+ns1:Spanish a ns1:MISC .
+
+ns1:St_James a ns1:LOC .
+
+ns1:Stefanos_Tsitsipas a ns1:PER .
+
+ns1:Steve_Kaplanlast a ns1:PER .
+
+ns1:Stoke a ns1:PER .
+
+ns1:Stoke_City a ns1:ORG .
+
+ns1:Stuttgart a ns1:LOC .
+
+ns1:Stuttgart_Open a ns1:MISC .
+
+ns1:Super_League a ns1:MISC .
+
+ns1:Surrey a ns1:ORG ;
+    ns1:put ns1:fielder .
+
+ns1:Surrey_Hampshire a ns1:ORG .
+
+ns1:Sussex a ns1:ORG .
+
+ns1:Swansea a ns1:LOC,
+        ns1:ORG,
+        ns1:PER ;
+    ns1:post ns1:turnover .
+
+ns1:Swansea_City a ns1:LOC,
+        ns1:ORG,
+        ns1:PER .
+
+ns1:Swiatek a ns1:PER ;
+    ns1:win ns1:titles .
+
+ns1:Tadej_Pogacar a ns1:ORG .
+
+ns1:Taz_Ali a ns1:PER .
+
+ns1:That ns1:cohortpurchase ns1:shares .
+
+ns1:The_Players_Championshipat_Sawgrass a ns1:ORG .
+
+ns1:They ns1:do ns1:job ;
+    ns1:follow ns1:Rory .
+
+ns1:This ns1:create ns1:scenarios .
+
+ns1:Thomas_Tuchel a ns1:PER .
+
+ns1:Tiger_Woods a ns1:PER .
+
+ns1:Time a ns1:PER .
+
+ns1:Toby_Albert a ns1:PER .
+
+ns1:Todd_Boehly a ns1:PER .
+
+ns1:Tom_Bailey a ns1:PER .
+
+ns1:Tom_Hartley a ns1:PER .
+
+ns1:Tom_Hartleytries a ns1:PER .
+
+ns1:Tom_Prest a ns1:PER .
+
+ns1:Tommy_Fleetwood a ns1:PER .
+
+ns1:Tony_Pulis a ns1:PER .
+
+ns1:Tottenham a ns1:ORG,
+        ns1:PER .
+
+ns1:Tottenham_Hotspur a ns1:LOC,
+        ns1:PER .
+
+ns1:Tour_de_France a ns1:MISC .
+
+ns1:Tour_of_Flanders a ns1:MISC .
+
+ns1:Trent a ns1:PER .
+
+ns1:Trojan a ns1:LOC .
+
+ns1:Tuchel a ns1:PER ;
+    ns1:instruct ns1:backs .
+
+ns1:Turkey a ns1:LOC .
+
+ns1:UFC a ns1:ORG .
+
+ns1:US a ns1:LOC .
+
+ns1:US_Open a ns1:MISC .
+
+ns1:US_PGA a ns1:MISC .
+
+ns1:US_PGA_Championship a ns1:MISC .
+
+ns1:United a ns1:ORG .
+
+ns1:Van_der_Poel a ns1:MISC,
+        ns1:PER .
+
+ns1:VideoMcIlroy a ns1:ORG .
+
+ns1:WSL a ns1:ORG .
+
+ns1:WTA a ns1:ORG .
+
+ns1:WTA_Tour a ns1:MISC .
+
+ns1:Warwickshire a ns1:ORG ;
+    ns1:target ns1:339 .
+
+ns1:Watch_McIlroy a ns1:PER .
+
+ns1:We ns1:do ns1:lot ;
+    ns1:have ns1:times ;
+    ns1:watch ns1:manager .
+
+ns1:Wells a ns1:PER .
+
+ns1:Welshmanhad a ns1:PER ;
+    ns1:make ns1:147 .
+
+ns1:West_Flanders a ns1:LOC .
+
+ns1:West_Ham a ns1:PER .
+
+ns1:Why_Guardiola a ns1:PER .
+
+ns1:Woods a ns1:PER ;
+    ns1:lead ns1:tributes .
+
+ns1:Worcestershire a ns1:ORG .
+
+ns1:World_Snooker_Championship a ns1:MISC .
+
+ns1:Wrexham_Deadpool a ns1:MISC .
+
+ns1:Yorkshire a ns1:ORG .
+
+ns1:You ns1:take ns1:him .
+
+ns1:Zerbi ns1:stretch ns1:pitch .
+
+ns1:achievement ns1:secure ns1:him .
+
+ns1:agents ns1:help ns1:transfers .
+
+ns1:approaches ns1:add ns1:layer .
+
+ns1:b ns1:target ns1:339 .
+
+ns1:champions ns1:pay ns1:622%2C604 .
+
+ns1:decade ns1:have ns1:theme .
+
+ns1:declaration ns1:make ns1:game .
+
+ns1:duo ns1:win ns1:set .
+
+ns1:expression ns1:demonstrate ns1:focus .
+
+ns1:face ns1:change ns1:everything .
+
+ns1:family ns1:take ns1:part .
+
+ns1:goalkeeper ns1:conundrum ns1:problem .
+
+ns1:goalkeepers ns1:keep ns1:that .
+
+ns1:he ns1:achieve ns1:something ;
+    ns1:become ns1:player ;
+    ns1:blow ns1:lead ;
+    ns1:chase ns1:Rose ;
+    ns1:complete ns1:collection ;
+    ns1:defend ns1:it ;
+    ns1:deserve ns1:everything ;
+    ns1:do ns1:what ;
+    ns1:flash ns1:edge ;
+    ns1:fumble ns1:chance ;
+    ns1:have ns1:beer,
+        ns1:enough,
+        ns1:range,
+        ns1:will ;
+    ns1:jab ns1:ball ;
+    ns1:loop ns1:catch ;
+    ns1:lose ns1:focus ;
+    ns1:make ns1:mistake ;
+    ns1:miss ns1:cut ;
+    ns1:put ns1:approach ;
+    ns1:recall ns1:Onana ;
+    ns1:reply ns1:idea ;
+    ns1:resolve ns1:differences ;
+    ns1:retire ns1:man ;
+    ns1:secure ns1:victory ;
+    ns1:take ns1:comparisons ;
+    ns1:talk ns1:which ;
+    ns1:tell ns1:champion ;
+    ns1:win ns1:Jacket,
+        ns1:major .
+
+ns1:includingAryna_Sabalenka a ns1:ORG .
+
+ns1:innovation ns1:require ns1:thinking .
+
+ns1:league ns1:pay <http://example.org/m.> .
+
+ns1:mid-2010s a ns1:MISC .
+
+ns1:nobody ns1:change ns1:formation ;
+    ns1:copy ns1:technique ;
+    ns1:do ns1:it ;
+    ns1:write ns1:script .
+
+ns1:number ns1:charge ns1:leaderboard ;
+    ns1:defend ns1:points .
+
+ns1:pair ns1:drop ns1:him .
+
+ns1:people ns1:have ns1:experience .
+
+ns1:return ns1:provide ns1:reset .
+
+ns1:run ns1:leave ns1:him .
+
+ns1:she ns1:defend <http://example.org/%25> ;
+    ns1:reach ns1:semi .
+
+ns1:side ns1:spend ns1:m .
+
+ns1:someone ns1:break ns1:barrier ;
+    ns1:throw ns1:it .
+
+ns1:success ns1:free ns1:me .
+
+ns1:supporters ns1:forget ns1:What .
+
+ns1:team ns1:have ns1:advantage .
+
+ns1:teams ns1:spend ns1:m .
+
+ns1:they ns1:do ns1:it ;
+    ns1:feel ns1:other ;
+    ns1:have ns1:slip ;
+    ns1:throw ns1:what .
+
+ns1:triangle ns1:become ns1:four .
+
+ns1:v ns1:live <http://example.org/%C2%A9> .
+
+ns1:video ns1:play ns1:Durham,
+        ns1:message,
+        ns1:triumph .
+
+ns1:we ns1:find ns1:what ;
+    ns1:get ns1:draw ;
+    ns1:give ns1:responsibilities ;
+    ns1:have ns1:that ;
+    ns1:take ns1:one,
+        ns1:this .
+
+ns1:whileAlexander_Zverevis a ns1:PER .
+
+ns1:whileGiles_Husseytriumphed a ns1:PER .
+
+ns1:who ns1:achieve ns1:Slam ;
+    ns1:author ns1:books ;
+    ns1:beat ns1:McIlroy ;
+    ns1:become ns1:caddie ;
+    ns1:deploy ns1:three ;
+    ns1:do ns1:lot ;
+    ns1:get ns1:swing ;
+    ns1:have ns1:4,
+        ns1:wins ;
+    ns1:pay ns1:m ;
+    ns1:plan ns1:switches ;
+    ns1:shoot ns1:one ;
+    ns1:stop ns1:Leinster .
+
+ns1:you ns1:decluttere ns1:area ;
+    ns1:do ns1:anything ;
+    ns1:drop ns1:keeper ;
+    ns1:love ns1:cricket ;
+    ns1:need ns1:rest ;
+    ns1:touch ns1:ball ;
+    ns1:want ns1:him .
+
+ns1:Alisson a ns1:PER .
+
+ns1:American a ns1:MISC ;
+    ns1:start ns1:day .
+
+ns1:Chandler a ns1:PER .
+
+ns1:Delap a ns1:ORG,
+        ns1:PER .
+
+ns1:Durham a ns1:LOC,
+        ns1:ORG .
+
+ns1:Gloucestershire a ns1:ORG .
+
+ns1:Harry a ns1:PER .
+
+ns1:Leinster a ns1:ORG .
+
+ns1:Masters a ns1:MISC ;
+    ns1:play ns1:off .
+
+ns1:Onana a ns1:LOC,
+        ns1:PER ;
+    ns1:make ns1:errors .
+
+ns1:Open a ns1:MISC .
+
+ns1:Pinehurst a ns1:LOC,
+        ns1:ORG .
+
+ns1:Zootopia a ns1:PER .
+
+ns1:champion ns1:have ns1:it .
+
+ns1:injury ns1:hold ns1:season .
+
+ns1:keeper ns1:make ns1:mistakes .
+
+ns1:majors ns1:win ns1:Open .
+
+ns1:old ns1:become ns1:man .
+
+ns1:start ns1:see ns1:old .
+
+ns1:target ns1:make ns1:stop ;
+    ns1:run ns1:ball .
+
+ns1:McIlroy a ns1:LOC,
+        ns1:ORG,
+        ns1:PER ;
+    ns1:ask ns1:media ;
+    ns1:beat ns1:Rose ;
+    ns1:claim ns1:jacket,
+        ns1:major ;
+    ns1:compartmentalise ns1:job ;
+    ns1:complete ns1:Slam ;
+    ns1:execute ns1:shots ;
+    ns1:flee ns1:Pinehurst ;
+    ns1:know ns1:American ;
+    ns1:maintain ns1:composure ;
+    ns1:point ns1:role ;
+    ns1:shed ns1:weight ;
+    ns1:sink ns1:birdies ;
+    ns1:spend ns1:hours ;
+    ns1:use ns1:which ;
+    ns1:win ns1:Masters .
+
+ns1:Rory ns1:join ns1:echelon .
+
+ns1:Rose a ns1:LOC,
+        ns1:PER .
+
+ns1:lot ns1:reject ns1:idea .
+
+ns1:man ns1:hand ns1:himself ;
+    ns1:present ns1:himself .
+
+ns1:points ns1:spend ns1:most .
+
+ns1:that ns1:hamper ns1:him ;
+    ns1:inspire ns1:many ;
+    ns1:know ns1:anything ;
+    ns1:prevent ns1:it ;
+    ns1:win ns1:McIlroy .
+
+ns1:which ns1:cover ns1:period ;
+    ns1:elude ns1:him ;
+    ns1:make ns1:progress ;
+    ns1:offer ns1:points ;
+    ns1:post ns1:loss ;
+    ns1:provide ns1:highs ;
+    ns1:secure ns1:victory ;
+    ns1:take ns1:place .
+
+ns1:Live a ns1:ORG .
+
+ns1:ball ns1:beat ns1:fielder ;
+    ns1:find ns1:edge .
+
+ns1:it ns1:have ns1:impact ;
+    ns1:require ns1:way ;
+    ns1:take ns1:place .
+
